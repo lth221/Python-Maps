@@ -1,0 +1,604 @@
+﻿OBJECTID,HUC,WBID,DISTRICT,PLANNING_UNIT,GROUP_NUMBER,GROUP_NAME,WATERBODY_NAME,WATER_TYPE,CLASS,TARGET_PARAMETERS,BACTERIA,NUTRIENTS,METALS,BIOLOGY,FLORA,PESTICIDES,BACT_COUNT,NUTRIENTS_COUNT,METALS_COUNT,BIOLOGY_COUNT,FLORA_COUNT,PESTICIDES_COUNT,FIELD_PARAMETERS,TRACERS_COUNT,MARKERS_COUNT,TRACERS,MARKERS,SHAPEAREA,SHAPELEN
+1,03080101,3064A,CD,Lake Poinsett,Group 3,Upper St. Johns,FLORENCE LAKE,LAKE,3F,"Biology, Dissolved Oxygen, Nutrients",,Yes,Yes,Yes,,,0,6,5,1,0,0,Yes,0,0,,,405033.8800375,3565.11013495298
+2,03080103,2629,NED,Crescent Lake,Group 2,Lower St. Johns,MIDDLE HAW CREEK,STREAM,3F,"Biology, Dissolved Oxygen",,,,Yes,Yes,,0,0,0,1,1,0,Yes,0,0,,,150502156.808963,111934.570435594
+3,03080103,2389,NED,Black Creek,Group 2,Lower St. Johns,DOCTORS LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,13894645.5948375,28326.5260111208
+4,03080101,2893Q,CD,St. Johns Marsh,Group 3,Upper St. Johns,LAKE HELEN BLAZES,LAKE,1,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,1059418.4723375,6450.8822438399
+5,03080101,2893R,CD,St. Johns Marsh,Group 3,Upper St. Johns,THREE FORKS MARSH,STREAM,1,"Dissolved Oxygen, Nutrients",,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,1650155.14375,5644.96991147841
+6,03080103,2299B,NED,Intracoastal Waterway,Group 2,Lower St. Johns,OPEN CREEK (FRESHWATER SEGMENT),STREAM,3F,Metals,Yes,Yes,Yes,,,,1,5,10,0,0,0,Yes,0,0,,,16809552.0711845,21356.3662984397
+7,03120003,913,NWD,Telogia Creek,Group 1,Ochlockonee - St. Marks,BIG CREEK,STREAM,3F,"Biology, Nutrients, Pesticides",Yes,Yes,Yes,Yes,Yes,Yes,1,5,10,1,1,5,Yes,0,0,,,23277258.2275125,33780.8089742166
+8,03080101,2929B,CD,Wekiva River,Group 2,Middle St. Johns,LAKE NORRIS,LAKE,3F,Nutrients,,Yes,,,,,0,6,0,0,0,0,Yes,0,0,,,4563705.7990875,10844.7222220385
+9,03140106,291,NWD,Perdido River,Group 5,Perdido,JACKS BRANCH,STREAM,3F,Biology,Yes,,,Yes,Yes,,7,0,0,1,1,0,Yes,0,0,,,43573295.367575,50422.0155959074
+10,03100202,1923,SWD,Manatee River,Group 2,Tampa Bay Tributaries,RATTLESNAKE SLOUGH,STREAM,1,"Biology, Dissolved Oxygen",Yes,,,,,,1,0,0,1,1,0,Yes,0,0,,,10747833.434925,16641.0694107906
+11,03080103,2265A,NED,North Mainstem,Group 2,Lower St. Johns,ARLINGTON RIVER,ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,4104056.7343125,9140.0039892379
+12,03080102,2772D,CD,Marshall Swamp,Group 1,Ocklawaha,SILVER RIVER (LOWER),STREAM,3F,Flora,Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,698718.8290125,7939.01617739304
+13,03140107,872B,NWD,Perdido Bay,Group 5,Perdido,BRIDGE CREEK (TIDAL PORTION),ESTUARY,3M,"Dissolved Oxygen, Nutrients",,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,1192436.3464375,7204.15520424184
+14,03110205,3422L,NED,Middle Suwannee,Group 1,Suwannee,RUTH SPRING,SPRING,3F,Nutrients,Yes,Yes,,,,,5,2,0,0,0,0,Yes,0,0,,,6166.0893125,278.569520464853
+15,03080102,1362Z,CD,Lake Harris,Group 1,Ocklawaha,BUGG SPRING,SPRING,3F,Nutrients,,Yes,,,,,0,2,0,0,0,0,Yes,0,0,,,17437.9755625,468.322567203882
+16,03090101,3170I2,CD,Upper Kissimmee,Group 4,Kissimmee River,PANTHER LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,6,0,3,0,0,Yes,0,0,,,294031.3768875,4949.76500657371
+17,03100208,1329S1,CD,Lower Withlacoochee,Group 4,Withlacoochee,BLUE SPRING RUN (CITRUS COUNTY),STREAM,3F,"Biology, Flora",,Yes,,Yes,Yes,,0,5,0,1,1,0,Yes,0,0,,,30545.8954875,1473.35826155554
+18,03110102,3724,NED,Other Coastal,Group 1,Suwannee,DIRECT RUNOFF TO GULF,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,7,0,0,0,0,Yes,0,0,,,60779190.919575,55817.5447324877
+19,03080201,2472,NED,Matanzas River,Group 5,Upper East Coast,RED HOUSE BRANCH,STREAM,3F,"Flora, Microbiology",Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,31699146.02495,40208.3267223605
+20,03100207,1633,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,MCKAY CREEK (TIDAL),ESTUARY,3M,"Dissolved Oxygen, Nutrients, Pesticides",Yes,Yes,,,,Yes,5,5,0,0,0,5,Yes,0,0,,,1422114.48315,6230.21671191283
+21,03110206,3519,NED,Santa Fe River,Group 1,Suwannee,ICHETUCKNEE RIVER,STREAM,3F,Pesticides,Yes,,,,,Yes,12,0,0,0,0,5,Yes,0,0,,,183831065.836538,85630.5086495379
+22,03130011,512,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,WILSON MILL CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,18725405.75135,28919.625874911
+23,03110101,3699A,NED,Waccasassa River,Group 1,Suwannee,WACCASASSA RIVER,ESTUARY,3M,"Metals, Microbiology",Yes,Yes,Yes,,,,6,5,7,0,0,0,Yes,5,5,Yes,Yes,7220447.0344875,13185.375051574
+24,03130004,60A,NWD,Chattahoochee River/Lake Seminole,Group 2,Apalachicola - Chipola,CHATTAHOOCHEE RIVER,STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,4,0,0,1,1,0,Yes,0,0,,,98622799.9725875,93474.6052540204
+25,03100101,1497E,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE BONNY,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,1086398.1917125,9515.53565491307
+26,03140103,331,NWD,Yellow River,Group 4,Pensacola,WILLIAMS BRANCH,STREAM,3F,Biology,Yes,,,Yes,Yes,,1,0,0,1,1,0,Yes,0,0,,,5983585.6980375,11285.5940108448
+27,03140103,336,NWD,Yellow River,Group 4,Pensacola,WILKINSON CREEK,STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,1,0,0,1,1,0,Yes,3,0,Yes,,9458802.5598,16697.9967349556
+28,03140103,30B,NWD,Yellow River,Group 4,Pensacola,YELLOW RIVER,STREAM,3F,"Flora, Nutrients",Yes,Yes,Yes,,Yes,,1,6,6,0,1,0,Yes,2,0,Yes,,134503366.635,93256.9379957269
+29,03100103,3240A3,SD,Pine Island,Group 2,Charlotte Harbor,HORSESHOE HERMOSA CANALS,STREAM,3F,Flora,,Yes,,,Yes,,0,2,0,0,2,0,Yes,0,0,,,70085119.6396125,41242.9817589577
+30,03100208,1503,SWD,Upper Withlacoochee,Group 4,Withlacoochee,LAKE VAN,LAKE,3F,Nutrients,Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,2444465.067125,6841.53120572479
+31,03110102,3573B,NED,Steinhatchee,Group 1,Suwannee,STEINHATCHEE RIVER,STREAM,3F,Biology,,,,Yes,Yes,,0,0,0,1,1,0,Yes,0,0,,,112708767.57655,87942.3827171317
+32,03110101,3731Z,NED,Waccasassa River,Group 1,Suwannee,WEKIVA SPRING (LEVY COUNTY),SPRING,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,72598.9334,956.36225081543
+33,03090101,3168Z4,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE GILES,LAKE,3F,Biology,,Yes,,Yes,,,0,3,0,1,0,0,Yes,0,0,,,110648.50355,1258.82944853427
+34,03090101,3168Y1,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE EMERALD,LAKE,3F,"Biology, Nutrients",Yes,Yes,,Yes,,,5,2,0,1,0,0,Yes,0,0,,,9028.7003875,425.446453754048
+35,03090101,3168X7,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE FARRAR,LAKE,3F,Biology,Yes,Yes,,Yes,,,5,1,0,1,0,0,Yes,0,0,,,34009.19355,726.96797736331
+36,03090101,3168Z1,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE LUCERNE (WEST),LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,3,0,1,0,0,Yes,0,0,,,41613.42475,784.559632645141
+37,03090101,3168X5,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE CONDEL,LAKE,3F,"Biology, Metals, Nutrients",,Yes,Yes,Yes,,,0,5,5,1,0,0,Yes,6,0,Yes,,13464.5409875,442.696746822162
+38,03090101,1758,SD,Lake Istokpoga,Group 4,Kissimmee River,LAKE DAMON,LAKE,3F,Nutrients,Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,1087629.55855,3817.42633715028
+39,03100204,1678,SWD,Alafia River,Group 2,Tampa Bay Tributaries,CHITO BRANCH,STREAM,3F,"Biology, Dissolved Oxygen, Nutrients",Yes,Yes,,Yes,Yes,,1,5,0,1,1,0,Yes,0,0,,,13148318.3398375,18103.8287091496
+40,03100208,1329L,SWD,Upper Withlacoochee,Group 4,Withlacoochee,TANK LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,120873.4776625,1705.15666396813
+41,03100102,2043,SD,Lower Myakka River,Group 3,Sarasota Bay - Peace - Myakka,APOLLO WATERWAY,ESTUARY,3M,Nutrients,Yes,Yes,,,,,3,10,0,0,0,0,Yes,0,0,,,11724697.7653125,16290.8477427871
+42,03100102,2045,SD,Lower Myakka River,Group 3,Sarasota Bay - Peace - Myakka,ROCK CREEK,ESTUARY,3M,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,10,5,0,0,0,Yes,5,0,Yes,,4611666.0372125,10190.3545225216
+43,03100204,1597A,SWD,Alafia River,Group 2,Tampa Bay Tributaries,SCOTT LAKE,LAKE,3F,Biology,Yes,Yes,Yes,Yes,,,2,1,1,1,0,0,Yes,0,0,,,1154528.43615,5203.88816415841
+44,03100204,1592C,SWD,Alafia River,Group 2,Tampa Bay Tributaries,MUSTANG RANCH CREEK,STREAM,3F,Biology,Yes,,,,,,5,0,0,1,1,0,Yes,0,0,,,8755949.9993875,16985.073359978
+45,03100208,1347B,CD,Lake Panasoffkee,Group 4,Withlacoochee,HIDDEN LAKE,LAKE,3F,"Biology, Dissolved Oxygen, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,24489.0796875,714.329678759522
+46,03100207,1329Y,SWD,Upper Withlacoochee,Group 4,Withlacoochee,MOUNTAIN LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,513811.4478875,4570.12893112142
+47,03090205,3240W,SD,Caloosahatchee Estuary,Group 3,Caloosahatchee,CARRELL CANAL,STREAM,3F,"Biology, Dissolved Oxygen",Yes,Yes,,Yes,Yes,,1,1,0,1,1,0,Yes,0,0,,,5171105.809925,10314.0594827181
+48,03080201,2363H,NED,Matanzas River,Group 5,Upper East Coast,ST AUGUSTINE INLET,ESTUARY,3M,Nutrients,Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,4956492.917525,11240.8735702602
+49,03110103,3419A,NWD,Aucilla River,Group 1,Suwannee,WELAUNEE CREEK,STREAM,3F,"Biology, Nutrients",Yes,Yes,,Yes,Yes,,1,5,0,1,1,0,Yes,0,0,,,62798656.56495,53256.6720012703
+50,03110206,3626,NED,Santa Fe River,Group 1,Suwannee,PARENERS BRANCH,STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,6,0,0,1,1,0,Yes,0,0,,,14771956.1482875,26246.3734676314
+51,03110206,3605Z,NED,Santa Fe River,Group 1,Suwannee,TRAIL SPRINGS,SPRING,3F,Pesticides,,Yes,Yes,,,Yes,0,5,5,0,0,5,Yes,0,0,,,538968.43735,2612.1818692405
+52,03080101,2986,CD,Lake Jesup,Group 2,Middle St. Johns,SOLDIER CREEK,STREAM,3F,"Biology, Microbiology, Pesticides",Yes,,,,,Yes,5,0,0,1,1,6,Yes,0,0,,,47213548.4784375,57506.9127706931
+53,03080102,2873,CD,Lake Apopka,Group 1,Ocklawaha,JOHNS LAKE OUTLET,STREAM,3F,"Dissolved Oxygen, Flora, Nutrients",Yes,Yes,,,Yes,,5,6,0,0,1,0,Yes,0,0,,,26136623.7682485,81804.2597508371
+54,03090101,1938B,SD,Lake Placid,Group 4,Kissimmee River,PLACID-JUNE CANAL (CATFISH CREEK),STREAM,3F,Dissolved Oxygen,Yes,Yes,,,,,6,4,0,0,0,0,Yes,0,0,,,15386757.88355,19130.6255594164
+55,03090204,3278E,SD,Southwest Coast,Group 1,Everglades West Coast,COW SLOUGH,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology, Pesticides",Yes,,,,,Yes,4,0,0,1,1,5,Yes,5,5,Yes,Yes,47325811.0752875,38362.69134577
+56,03110102,3518,NED,Fenholloway,Group 1,Suwannee,SPRING CREEK,STREAM,3F,Pesticides,Yes,,,,,Yes,1,0,0,0,0,6,Yes,0,0,,,65004825.2211125,69237.8682985924
+57,03110206,3520,NED,Santa Fe River,Group 1,Suwannee,CANNON CREEK,STREAM,3F,"Biology, Microbiology, Pesticides",Yes,,,Yes,Yes,Yes,5,0,0,1,1,10,Yes,0,0,,,15886463.3475125,25098.8528892735
+58,03080102,2817A,CD,Lake Griffin,Group 1,Ocklawaha,HAYNES CREEK (LOWER SEGMENT),STREAM,3F,"Biology, Dissolved Oxygen, Flora",Yes,Yes,,Yes,Yes,,1,1,0,1,1,0,Yes,0,0,,,8221639.502775,15412.5629498333
+59,03110206,3605J,NED,Santa Fe River,Group 1,Suwannee,TWIN SPRING,SPRING,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,2,0,Yes,,10381.595767335,362.519400127428
+60,03080102,2719A,NED,Orange Creek,Group 1,Ocklawaha,LAKE ALICE,LAKE,3F,Biology,Yes,Yes,,Yes,,Yes,10,1,0,1,0,1,Yes,1,0,Yes,,115335.8201,2205.69695350168
+61,03130012,569,NWD,Chipola River,Group 2,Apalachicola - Chipola,TENMILE CREEK,STREAM,3F,"Biology, Metals, Microbiology",Yes,Yes,Yes,Yes,Yes,,11,5,5,1,1,0,Yes,0,0,,,92207823.238075,88927.7719532345
+62,03100201,1953,SD,Sarasota Bay,Group 3,Sarasota Bay - Peace - Myakka,HUDSON BAYOU TIDAL,ESTUARY,3M,Dissolved Oxygen,Yes,Yes,,,,,5,5,0,0,0,0,Yes,5,0,Yes,,2029661.0615,6344.9157152405
+63,03100101,1939,SD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,BRANDY BRANCH,STREAM,3F,"Microbiology, Nutrients, Pesticides",Yes,Yes,,,,Yes,5,5,0,0,0,5,Yes,0,1,,Yes,42269758.624975,38611.4297126811
+64,03070204,2339,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,OCEAN POND,LAKE,3F,"Metals, Nutrients",Yes,Yes,Yes,,,,10,5,5,0,0,0,Yes,0,0,,,7298387.2208125,10189.3755713573
+65,03100201,2015,SD,Sarasota Bay,Group 3,Sarasota Bay - Peace - Myakka,HATCHETT CREEK (TIDAL),ESTUARY,3M,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,2431785.053475,7999.41043915551
+66,03100201,2015A,SD,Sarasota Bay,Group 3,Sarasota Bay - Peace - Myakka,HATCHETT CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Pesticides",Yes,,,Yes,Yes,Yes,1,0,0,1,1,1,Yes,0,0,,,13688376.181875,17727.7204655606
+67,03100101,1617A,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE EFFIE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,413516.3629875,4048.83222942745
+68,03100101,1623B,SD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,PEACE RIVER ABOVE HORSE CREEK,STREAM,3F,"Biology, Flora, Nutrients, Pesticides",,Yes,Yes,Yes,Yes,Yes,0,5,1,1,1,6,Yes,0,0,,,69574385.6594875,44258.8987867632
+69,03090205,3240C1,SD,Caloosahatchee Estuary,Group 3,Caloosahatchee,PALM CREEK,STREAM,3F,Microbiology,Yes,,,,,,1,0,0,0,0,0,Yes,6,6,Yes,Yes,10453763.556075,15029.9508193906
+70,03090205,3235E,SD,West Caloosahatchee,Group 3,Caloosahatchee,BEE BRANCH,STREAM,3F,"Biology, Dissolved Oxygen, Nutrients",Yes,Yes,,Yes,Yes,,1,10,0,1,2,0,Yes,0,0,,,88258459.38665,66337.5742875951
+71,03100206,1579,SWD,Coastal Hillsborough Bay Tributary,Group 1,Tampa Bay,BELLOWS LAKE (EAST LAKE) OUTLET,STREAM,3F,"Nutrients, Pesticides",Yes,Yes,,,,Yes,1,11,0,0,0,6,Yes,0,0,,,4720441.3013875,16778.3195145041
+72,03100101,1580,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,WAHNETA FARMS DRAINAGE CANAL,STREAM,3F,Flora,,Yes,Yes,,Yes,,0,2,2,0,2,0,Yes,0,0,,,16675480.1136625,24901.092168065
+73,03080101,3004O,CD,Wekiva River,Group 2,Middle St. Johns,ASHER LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,4,0,0,0,0,Yes,0,0,,,21216.25455,518.965691643981
+74,03100207,1361,SWD,Chassahowitzka,Group 5,Springs Coast,CHASSAHOWITZKA RIVER,ESTUARY,2,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,226515956.46855,117938.150244867
+75,03080102,2774,CD,Marshall Swamp,Group 1,Ocklawaha,HALF MILE CREEK,STREAM,3F,Biology,Yes,,,Yes,Yes,,1,0,0,1,1,0,Yes,0,0,,,36398901.169075,34217.6344053581
+76,03120003,811,NWD,North Ochlockonee River,Group 1,Ochlockonee - St. Marks,OCKLAWAHA CREEK,STREAM,3F,Biology,Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,29299942.3319875,71700.8499320656
+77,03100207,1512,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,HEALTH SPRING DRAIN / BOGGY BAYOU,ESTUARY,3M,Nutrients,Yes,Yes,,,,,4,10,0,0,0,0,Yes,0,0,,,2631417.6243625,11379.6480433138
+78,03080101,2998E,CD,Wekiva River,Group 2,Middle St. Johns,LAKE ADELAIDE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,85852.3584625,1290.14099181168
+79,03080101,3042,CD,Tosohatchee,Group 3,Upper St. Johns,JIM CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,109927519.851775,81326.7041266457
+80,03090102,3205A1,SED,TOL Complex,Group 1,Lake Okeechobee,TAYLOR CREEK (UPPER SEGMENT),STREAM,3F,"Biology, Nutrients",Yes,Yes,,Yes,Yes,,1,10,0,1,1,0,Yes,4,0,Yes,,223082380.539525,93157.4192216761
+81,03090101,3168X9,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE JANE (ORANGE COUNTY),LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,14420.67415,444.513647106436
+82,03090101,3168W,CD,Upper Kissimmee,Group 4,Kissimmee River,BEAR HEAD LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,2,0,1,0,0,Yes,0,0,,,62944.5590125,897.777323550982
+83,03090101,3168Y6,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE LURNA,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,30024.3583,672.551704727111
+84,03090101,3168Y7,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE THERESA,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,4204.9341375,255.416365963701
+85,03090101,3168W4,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE OF THE WOODS,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,2,0,1,0,0,Yes,0,0,,,17081.4854125,580.705250191746
+86,03090101,3168X3,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE TERRACE,LAKE,3F,Biology,,Yes,,Yes,,,0,2,0,1,0,0,Yes,0,0,,,11319.4045,385.904310518187
+87,03090101,3168X2,CD,Upper Kissimmee,Group 4,Kissimmee River,HOURGLASS LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,55965.931975,1175.19674793349
+88,03100101,1844,SWD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,THOMPSON BRANCH,STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,16819941.4271,22490.9495858673
+89,03090101,1842B,SD,Lake Istokpoga,Group 4,Kissimmee River,LAKE DENTON,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,267369.666775,1869.02557544321
+90,03100101,1623A,SD,Lower Peace River,Group 3,Sarasota Bay - Peace - Myakka,PEACE RIVER ABOVE THORNTON BRANCH,STREAM,3F,Biology,Yes,,,Yes,Yes,,6,0,0,1,1,0,Yes,0,0,,,23565580.735475,24907.9670223597
+91,03100102,1933,SWD,Upper Myakka River,Group 3,Sarasota Bay - Peace - Myakka,OWEN CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Nutrients, Pesticides",Yes,Yes,,Yes,Yes,Yes,1,12,0,1,2,6,Yes,0,0,,,49756127.30555,58199.2340267453
+92,03100101,1934,SWD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,OSBORN BRANCH,STREAM,3F,"Dissolved Oxygen, Microbiology",,Yes,,,,,0,5,0,0,0,0,Yes,0,1,,Yes,6863646.033925,12302.574036752
+93,03100102,1935,SWD,Upper Myakka River,Group 3,Sarasota Bay - Peace - Myakka,MAPLE CREEK,STREAM,3F,"Biology, Flora",Yes,,,,,,6,0,0,1,1,0,Yes,0,0,,,11539374.3185875,16826.5916653465
+94,03100101,1497A,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,CRYSTAL LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,4,0,1,0,0,Yes,0,0,,,108141.7334625,1354.31046385455
+95,03080103,2265C,NED,North Mainstem,Group 2,Lower St. Johns,POTTSBURG CREEK (FRESHWATER SEGMENT),STREAM,3F,Pesticides,Yes,,,,,Yes,1,0,0,0,0,5,Yes,0,0,,,16402698.1876125,25517.7904499035
+96,03130011,375F,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,APALACHICOLA RIVER,STREAM,3F,Nutrients,Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,3,0,Yes,,158228937.779675,129880.984876664
+97,03080103,2592,NED,South Mainstem,Group 2,Lower St. Johns,MILL BRANCH,STREAM,3F,"Flora, Metals, Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,,Yes,Yes,5,5,10,0,1,10,Yes,5,0,Yes,,22405636.9031588,22869.0994879472
+98,03110206,3598C,NED,Santa Fe River,Group 1,Suwannee,ALLIGATOR CREEK,STREAM,3F,"Biology, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,43024133.7884875,43149.6495656708
+99,03100208,1340K,SWD,Tsalo Apopka,Group 4,Withlacoochee,CATO LAKE,LAKE,3F,"Biology, Dissolved Oxygen, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,412657.691475,3947.03400688935
+100,03100207,1439,SWD,Middle Coastal,Group 5,Springs Coast,SALT SPRINGS (PASCO),SPRING,3M,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,3162620.000975,12121.7883521341
+101,03130013,1251,NWD,New River,Group 2,Apalachicola - Chipola,CROOKED RIVER,STREAM,3F,Flora,Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,62256321.1514,47209.9088292912
+102,03080103,2381,NED,Julington Creek,Group 2,Lower St. Johns,CORMORANT BRANCH,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,1,1,Yes,Yes,5938158.6474625,16683.2238003856
+103,03100207,1618C,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,LONG BAYOU/CROSS BAYOU,ESTUARY,3M,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,0,0,,,4623557.0658875,12227.9523769489
+104,03110102,3556,NED,Other Coastal,Group 1,Suwannee,WEAVER WARRIOR CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,6,0,0,0,0,Yes,0,0,,,67417490.3297625,46744.4481364897
+105,03100101,1997,SD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,HAWTHORNE CREEK,STREAM,3F,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,2,5,5,0,0,0,Yes,0,0,,,71291278.47105,57130.388373488
+106,03080103,2322,NED,Ortega River,Group 2,Lower St. Johns,BUTCHER PEN CREEK,STREAM,3F,"Flora, Dissolved Oxygen, Metals, Nutrients",Yes,Yes,Yes,,Yes,,5,7,6,0,2,0,Yes,0,0,,,3425181.02615,9757.90643642863
+107,03100101,1539,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,PEACE CREEK DRAINAGE CANAL,STREAM,3F,"Biology, Flora",,,,Yes,Yes,,0,0,0,1,1,0,Yes,5,5,Yes,Yes,139313799.19022,154985.150436635
+108,03100101,1488E,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE IDA (WINTER HAVEN),LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,69830.8436875,957.602168299167
+109,03130011,1240,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,FORT GADSDEN CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Metals, Nutrients",Yes,Yes,Yes,Yes,Yes,,11,5,5,1,1,0,Yes,5,0,Yes,,67849483.1986125,55894.972083814
+110,03100208,1349A,CD,Lake Panasoffkee,Group 4,Withlacoochee,LAKE DEATON,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,2146038.800025,6905.05927823224
+111,03100202,1807B,SWD,Manatee River,Group 2,Tampa Bay Tributaries,LAKE MANATEE RESERVOIR,LAKE,1,Biology,,Yes,,Yes,,,0,2,0,2,0,0,Yes,0,0,,,30829487.4234125,45358.5570244353
+112,03100101,1622D,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE GARFIELD DRAIN,STREAM,3F,Nutrients,Yes,Yes,Yes,,,,1,2,2,0,0,0,Yes,2,0,Yes,,42773235.54435,45387.2136162414
+113,03080103,2415A,NED,Black Creek,Group 2,Lower St. Johns,BLACK CREEK ABOVE ST JOHNS RIVER,STREAM,3F,"Biology, Nutrients",Yes,Yes,,Yes,Yes,,1,5,0,1,1,0,Yes,0,0,,,17246515.30105,29516.4689064125
+114,03130013,1242,NWD,New River,Group 2,Apalachicola - Chipola,GULLY BRANCH,STREAM,3F,"Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,,Yes,,6,5,5,0,1,0,Yes,0,0,,,12870632.9154125,16627.6029495418
+115,03110101,3699B,NED,Waccasassa River,Group 1,Suwannee,WACCASASSA RIVER,ESTUARY,2,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,11012061.9985125,21419.059239413
+116,03100101,2048C,SD,Lower Peace River,Group 3,Sarasota Bay - Peace - Myakka,FLOPBUCK CREEK,ESTUARY,3M,"Dissolved Oxygen, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,2113146.769775,5947.30147682688
+117,03140104,271,NWD,Blackwater River,Group 4,Pensacola,ATES CREEK,STREAM,3F,Microbiology,Yes,,Yes,,,,5,0,5,0,0,0,Yes,0,0,,,13048748.633875,19440.9296000778
+118,03140103,30G,NWD,Yellow River,Group 4,Pensacola,TRAMMEL CREEK,STREAM,3F,Microbiology,Yes,,Yes,,,,5,0,5,0,0,0,Yes,0,0,,,15255591.923875,22333.7455603467
+119,03080103,2368,NED,Black Creek,Group 2,Lower St. Johns,LITTLE BLACK CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology, Pesticides",Yes,,,Yes,Yes,Yes,5,0,0,1,1,5,Yes,0,0,,,35470855.6791375,49116.2758695051
+120,03070204,2392,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,PALESTINE LAKE,LAKE,3F,"Metals, Nutrients",,Yes,Yes,,,,0,5,5,0,0,0,Yes,2,0,Yes,,3730674.247725,9089.08111644217
+121,03080201,2406C,NED,Tolomato River,Group 5,Upper East Coast,DEEP CREEK (MARINE SEGMENT),ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,2142385.1323625,8213.64091065403
+122,03130014,1274A,NWD,Apalachicola Bay,Group 2,Apalachicola - Chipola,EAST BAY,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,31055403.792875,41344.0784922231
+123,03100207,1567,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,STEVENSON CREEK (TIDAL SEGMENT),ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,5,0,Yes,,6969384.7734125,15360.2535430171
+124,03100207,1538,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,CURLEW CREEK TIDAL,ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,5,10,0,0,0,0,Yes,0,0,,,949859.262025,4817.17960244324
+125,03110205,3422X,NED,Middle Suwannee,Group 1,Suwannee,TELFORD SPRING,SPRING,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,72605.1576,956.403105763927
+126,03140105,548F,NWD,Pensacola Bay,Group 4,Pensacola,BAYOU GRANDE,ESTUARY,3M,"Dissolved Oxygen, Nutrients",Yes,Yes,,,,,4,15,0,0,0,0,Yes,0,0,,,4782772.7538375,38381.6757350478
+127,03080103,2410,NED,Black Creek,Group 2,Lower St. Johns,SWIMMING PEN CREEK,STREAM,3F,"Biology, Metals, Nutrients",Yes,Yes,Yes,Yes,Yes,,1,5,10,1,1,0,Yes,0,0,,,7763046.8152125,15713.5915706739
+128,03140104,18,NWD,Blackwater River,Group 4,Pensacola,BIG COLDWATER CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,7,10,0,0,0,0,Yes,6,6,Yes,Yes,56984994.7689875,42901.5476255504
+129,03140104,260,NWD,Blackwater River,Group 4,Pensacola,CLEAR CREEK,STREAM,3F,Nutrients,Yes,Yes,,,,,5,10,0,0,0,0,Yes,0,0,,,63072458.044,46771.5203683242
+130,03080201,2580A,NED,Pellicer Creek,Group 5,Upper East Coast,PELLICER CREEK,ESTUARY,2,"Metals, Microbiology, Pesticides",Yes,Yes,Yes,,,Yes,5,5,5,0,0,5,Yes,0,0,,,6629278.856625,13141.3909960358
+131,03080103,2415C,NED,Black Creek,Group 2,Lower St. Johns,BLACK CREEK (SOUTH FORK),STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,31664241.364775,55337.1193785642
+132,03080103,2205C,NED,Intracoastal Waterway,Group 2,Lower St. Johns,"ICWW (DUVAL COUNTY; ST JOHNS COUNTY)",ESTUARY,3M,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,62165200.9755438,74313.9548052338
+133,03080201,2435,NED,Tolomato River,Group 5,Upper East Coast,CAPO CREEK,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,10,5,0,0,0,0,Yes,0,0,,,3221645.0771625,8354.42917381874
+134,03120001,1146Z,NWD,Coastal Watershed and Apalachee Bay,Group 1,Ochlockonee - St. Marks,SPRING CREEK SPRING,SPRING,3M,Nutrients,,Yes,,,,,0,10,0,0,0,0,Yes,0,0,,,864973.2416125,4072.27655511651
+135,03090204,3259B1,SD,Southwest Coast,Group 1,Everglades West Coast,DRAINAGE TO CORKSCREW SWAMP,STREAM,3F,"Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,6,5,6,0,0,0,Yes,0,0,,,91397678.5906625,66001.6807097149
+136,03090204,3258EA,SD,Estero Bay,Group 1,Everglades West Coast,IMPERIAL RIVER,STREAM,3F,"Dissolved Oxygen, Flora, Microbiology",,Yes,,,Yes,,0,5,0,0,1,0,Yes,5,5,Yes,Yes,190863306.978711,89047.3504857209
+137,03100207,1662,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,PINELLAS PARK DITCH NO 1 (TIDAL SEGMENT),ESTUARY,3M,"Microbiology, Nutrients, Pesticides",Yes,Yes,,,,Yes,4,5,0,0,0,5,Yes,0,0,,,2200966.20265,6769.08175408316
+138,03100101,1613E,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE BELLE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,15,0,1,0,0,Yes,0,0,,,246346.1145125,3238.46435599557
+139,03130011,376C,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,MOSQUITO CREEK (POTABLE AREA),STREAM,1,Pesticides,Yes,,Yes,,,Yes,4,0,4,0,0,4,Yes,0,0,,,68343.7226375,1246.56241720875
+140,03140102,568A,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,ROBERTS LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,90341.037325,2532.10532965036
+141,03130012,51D,NWD,Chipola River,Group 2,Apalachicola - Chipola,CHIPOLA RIVER,STREAM,3F,"Biology, Flora",Yes,,,,,,5,0,0,1,1,0,Yes,0,0,,,101416060.051112,106503.840264917
+142,03110103,3310A,NED,Aucilla River,Group 1,Suwannee,AUCILLA RIVER (MARINE SEGMENT),ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,5,6,0,0,0,0,Yes,0,0,,,11940030.1373,18926.3208350165
+143,03100102,1981,SD,Lower Myakka River,Group 3,Sarasota Bay - Peace - Myakka,LAKE MYAKKA (LOWER SEGMENT),LAKE,1,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,2387599.446025,11416.0787036715
+144,03120001,647K,NWD,Lake Lafayette,Group 1,Ochlockonee - St. Marks,LAKE KINSALE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,42133.4728125,1446.0084447471
+145,03080103,2284B,NED,North Mainstem,Group 2,Lower St. Johns,LITTLE POTTSBURG CREEK (FRESHWATER PORTION),STREAM,3F,"Biology, Metals, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,5,1,1,0,Yes,6,6,Yes,Yes,6040862.9963,11955.3763314046
+146,03100208,1347,CD,Lake Panasoffkee,Group 4,Withlacoochee,LAKE OKAHUMPKA,LAKE,3F,Biology,Yes,Yes,,Yes,,,5,5,0,1,0,0,Yes,0,0,,,2284297.4201,9909.02300840383
+147,03100204,1642,SWD,Alafia River,Group 2,Tampa Bay Tributaries,SLOMAN BRANCH,STREAM,3F,Biology,Yes,Yes,,Yes,Yes,,1,1,0,1,1,0,Yes,1,2,Yes,Yes,4950479.5637875,9974.91341836398
+148,03100204,1651,SWD,Alafia River,Group 2,Tampa Bay Tributaries,MCDONALD BRANCH,STREAM,3F,"Biology, Flora, Microbiology",Yes,,,Yes,Yes,,2,0,0,1,1,0,Yes,0,0,,,4569875.1090625,8736.30137572414
+149,03110206,3649,NED,Santa Fe River,Group 1,Suwannee,COW CREEK,STREAM,3F,Pesticides,Yes,,,,,Yes,1,0,0,0,0,5,Yes,0,0,,,197438657.785287,128994.258881562
+150,03110101,3703,NED,Waccasassa River,Group 1,Suwannee,HORSEHOLE CREEK,STREAM,3F,Metals,Yes,,Yes,,,,6,0,4,0,0,0,Yes,0,0,,,23623849.5668,35654.6950754032
+151,03090101,1813G,SD,Lake Istokpoga,Group 4,Kissimmee River,LITTLE BONNET LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,341031.583725,2361.09648398624
+152,03140203,526C,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,OPEN LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,838901.0743375,3282.15723876578
+153,03140101,780A,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,RATTLESNAKE LAKE,LAKE,3F,"Biology, Nutrients",,Yes,Yes,Yes,,,0,6,1,1,0,0,Yes,0,0,,,613334.151575,3974.68389417084
+154,03120003,540,NWD,North Ochlockonee River,Group 1,Ochlockonee - St. Marks,HURRICANE CREEK,STREAM,3F,"Biology, Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,Yes,Yes,Yes,6,5,5,1,1,6,Yes,0,0,,,32628252.3586,40921.5287936408
+155,03100207,1556A,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,CEDAR CREEK,STREAM,3F,"Microbiology, Pesticides",Yes,,,,,Yes,5,0,0,0,0,5,Yes,0,0,,,4347081.9157875,10160.9932703601
+156,03090101,1758F,SD,Lake Istokpoga,Group 4,Kissimmee River,LAKE ISABELL,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,378049.417575,2462.59142851274
+157,03080103,2615,NED,Crescent Lake,Group 2,Lower St. Johns,BULL CREEK DITCHES,STREAM,3F,"Biology, Microbiology, Pesticides",Yes,,,Yes,Yes,Yes,5,0,0,1,1,4,Yes,0,0,,,56618041.8262125,48583.9469738309
+158,03110201,3449,NED,Upper Suwannee,Group 1,Suwannee,ROCKY CREEK NEAR WELLBORN,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,2,0,Yes,,48604152.5281125,53681.3919352505
+159,03080103,2282,NED,Ortega River,Group 2,Lower St. Johns,WILLS BRANCH (NORTH PRONG),STREAM,3F,"Biology, Microbiology, Nutrients",Yes,Yes,,Yes,Yes,,6,5,0,2,2,0,Yes,0,0,,,8322447.865225,18764.4093073218
+160,03100204,1675,SWD,Alafia River,Group 2,Tampa Bay Tributaries,OWENS BRANCH,STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,1,0,0,1,1,0,Yes,0,0,,,6238061.0877,10593.7596202711
+161,03090101,3170J,CD,Upper Kissimmee,Group 4,Kissimmee River,UPPER CYPRESS CREEK,STREAM,3F,"Biology, Dissolved Oxygen",Yes,,,Yes,Yes,,1,0,0,1,1,0,Yes,0,0,,,7909967.7446875,15096.1601391253
+162,03090101,3170L,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE INGRAM,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,170349.75755,1948.82963977847
+163,03100103,2074,SD,Charlotte Harbor Proper,Group 2,Charlotte Harbor,ALLIGATOR CREEK,STREAM,1,"Biology, Metals, Microbiology, Pesticides",Yes,Yes,Yes,,,Yes,4,4,10,1,1,10,Yes,0,0,,,23514994.6449625,23210.1613937488
+164,03140105,683,NWD,Pensacola Bay,Group 4,Pensacola,DEAN CREEK,STREAM,3F,Microbiology,,,,,,,0,0,0,0,0,0,Yes,3,0,Yes,,38025946.7563875,31779.5076981775
+165,03140102,760,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,AIRPORT DRAIN,STREAM,3F,Flora,Yes,Yes,,,Yes,,10,1,0,0,1,0,Yes,0,0,,,8079955.7784625,16096.9079411141
+166,03110203,3322A,NED,Withlacoochee River,Group 1,Suwannee,LAKE CHERRY,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,1940235.9924625,5113.71820614676
+167,03100206,1498A,SWD,Coastal Old Tampa Bay Tributary,Group 1,Tampa Bay,STARVATION LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,6,0,1,0,0,Yes,0,0,,,85687.97425,1663.12881594825
+168,03080103,2228B,NED,Trout River,Group 2,Lower St. Johns,MONCRIEF CREEK (FRESHWATER PORTION),STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,5,0,0,1,2,0,Yes,0,0,,,10879355.49425,15352.8563463052
+169,03080103,2235,NED,North Mainstem,Group 2,Lower St. Johns,NEWCASTLE CREEK,STREAM,3F,Biology,,,,Yes,Yes,,0,0,0,1,1,0,Yes,0,0,,,2356326.6899375,7686.23807773657
+170,03100101,1623X,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,RECLAIMED MINE CUT LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,680313.675575,3364.24913235337
+171,03140203,337,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,FLAT CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,5,1,1,0,Yes,0,0,,,53159187.205575,45684.2159156451
+172,03120001,977,NWD,St. Marks River,Group 1,Ochlockonee - St. Marks,MOORE BRANCH,STREAM,3F,"Microbiology, Pesticides",Yes,Yes,,,,Yes,6,5,0,0,0,5,Yes,0,0,,,6845819.6574125,14779.3823551923
+173,03080103,2583,NED,South Mainstem,Group 2,Lower St. Johns,COW BRANCH,STREAM,3F,"Biology, Microbiology",Yes,,,,,,5,0,0,1,1,0,Yes,0,0,,,4682893.4654875,12891.6975084539
+174,03080103,2308,NED,North Mainstem,Group 2,Lower St. Johns,EAGLE RUN,STREAM,3F,"Biology, Nutrients",,Yes,,Yes,Yes,,0,5,0,1,1,0,Yes,5,5,Yes,Yes,4559313.3671,11328.3497940703
+175,03080103,2233,NED,North Mainstem,Group 2,Lower St. Johns,LONG BRANCH,ESTUARY,3M,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,4,5,5,0,0,0,Yes,5,5,Yes,Yes,5676217.4105375,11430.1630390575
+176,03100207,1475A,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,LAKE DAN,LAKE,3F,Nutrients,Yes,Yes,,,,,3,6,0,0,0,0,Yes,0,0,,,131966.1361625,1662.45758280914
+177,03080103,2563,NED,Deep Creek LSJR,Group 2,Lower St. Johns,UNNAMED DITCHES,STREAM,3F,"Biology, Microbiology",Yes,,,,,,5,0,0,1,1,0,Yes,0,0,,,5282280.5994,12656.0787964802
+178,03100208,1371A,SWD,Tsalo Apopka,Group 4,Withlacoochee,MCKETHAN LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,121816.6283875,1555.2799236041
+179,03100101,1521G,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE MIRROR,LAKE,3F,Nutrients,,Yes,,,,,0,2,0,0,0,0,Yes,0,0,,,499955.2076375,2619.14944558868
+180,03080103,2254,NED,North Mainstem,Group 2,Lower St. Johns,RED BAY BRANCH,STREAM,3F,"Biology, Microbiology, Nutrients",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,5,0,Yes,,5539006.0048375,10649.2666053695
+181,03130011,504,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,CROOKED CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,5,0,Yes,,18084378.1906,33929.9596139391
+182,03080101,3002N,CD,Wekiva River,Group 2,Middle St. Johns,PRAIRIE LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,2,0,1,0,0,Yes,0,0,,,144219.87765,1806.39143485054
+183,03100207,1382E,SWD,Middle Coastal,Group 5,Springs Coast,HIGHLAND LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,119571.2346875,1815.99059859053
+184,03100208,1329W,SWD,Upper Withlacoochee,Group 4,Withlacoochee,BYSTRE LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,894111.5779125,4737.65612772007
+185,03120003,680,NWD,North Ochlockonee River,Group 1,Ochlockonee - St. Marks,RICHLANDER CREEK,STREAM,3F,"Biology, Metals, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,5,1,1,0,Yes,5,0,Yes,,14011545.517925,28966.006226342
+186,03080102,2720,NED,Orange Creek,Group 1,Ocklawaha,CALF CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,0,0,,,10978354.7133875,21826.4452637001
+187,03100101,2046,SD,Lower Peace River,Group 3,Sarasota Bay - Peace - Myakka,LITTLE ALLIGATOR CREEK,ESTUARY,3M,"Metals, Nutrients",Yes,Yes,Yes,,,,10,10,10,0,0,0,Yes,0,0,,,20390014.1135,23296.1660550093
+188,03110102,3473B,NED,Fenholloway,Group 1,Suwannee,FENHOLLOWAY RIVER BELOW BUCKEYE PULP MILL,STREAM,3F,Nutrients,Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,88031226.86725,53883.6130669122
+189,03100102,1943,SD,Upper Myakka River,Group 3,Sarasota Bay - Peace - Myakka,INDIAN CREEK,STREAM,3F,"Metals, Nutrients",,Yes,Yes,Yes,Yes,,0,5,5,1,1,0,Yes,0,0,,,19237900.934525,21133.2866751642
+190,03100101,2001,SD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,HOG BAY,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,31614087.3424875,30550.3624197365
+191,03130011,1262,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,DOUBLE BAYOU,STREAM,3F,"Biology, Dissolved Oxygen",Yes,,,Yes,Yes,,1,0,0,1,1,0,Yes,0,0,,,56359430.9146625,43768.6977612531
+192,03140203,719,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,LITTLE BLACK CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,7381127.117075,16191.4573409127
+193,03140203,526,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,PINE LOG CREEK,STREAM,3F,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,206552837.9744,160952.9679273
+194,03080101,2956A,CD,Wekiva River,Group 2,Middle St. Johns,WEKIVA RIVER,STREAM,3F,Flora,Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,40868234.7506375,52477.1916103789
+195,03080103,2423,NED,Black Creek,Group 2,Lower St. Johns,MILL LOG CREEK,STREAM,3F,Flora,Yes,Yes,Yes,,Yes,,5,1,1,0,1,0,Yes,0,0,,,11992602.308525,16026.9154595715
+196,03080201,2442,NED,Tolomato River,Group 5,Upper East Coast,MARSHALL CREEK,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,3833798.0820375,13002.8062543926
+197,03130013,1256,NWD,New River,Group 2,Apalachicola - Chipola,ALLIGATOR HARBOR,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,65103354.3295625,86490.987837399
+198,03090204,3258D1,SD,Estero Bay,Group 1,Everglades West Coast,ESTERO RIVER (MARINE SEGMENT),ESTUARY,3M,Microbiology,Yes,,,,,,1,0,0,0,0,0,Yes,14,14,Yes,Yes,16598292.7021875,25015.9245564161
+199,03080103,2444,NED,Black Creek,Group 2,Lower St. Johns,PETERS CREEK,STREAM,3F,Floral,Yes,Yes,,,Yes,,1,1,0,0,1,0,Yes,0,0,,,37651298.3308375,49211.2739823393
+200,03080103,2446,NED,Black Creek,Group 2,Lower St. Johns,BULL CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,27154274.3853125,36418.2456901922
+201,03080103,2460,NED,Sixmile Creek,Group 2,Lower St. Johns,MILL CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,2,0,Yes,,30057944.1376948,33788.1437886058
+202,03110206,3504A,NED,Santa Fe River,Group 1,Suwannee,OLUSTEE CREEK,STREAM,3F,"Microbiology, Pesticides",Yes,Yes,,,,Yes,5,5,0,0,0,5,Yes,0,0,,,76516138.740225,50002.4770896652
+203,03090101,1730E,SWD,Lake Istokpoga,Group 4,Kissimmee River,PABOR LAKE,LAKE,3F,Biology,,Yes,Yes,Yes,,,0,1,1,1,0,0,Yes,1,0,Yes,,162934.9721,1444.2418950489
+204,03090205,3240N,SD,Caloosahatchee Estuary,Group 3,Caloosahatchee,OWL CREEK,STREAM,3F,"Biology, Dissolved Oxygen",,,,Yes,Yes,,0,0,0,1,1,0,Yes,0,0,,,25399616.8789125,28890.2222346505
+205,03100201,2050,SD,Lemon Bay,Group 2,Charlotte Harbor,GOLDFISH CREEK,STREAM,3F,"Biology, Dissolved Oxygen",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,5371670.3788375,9898.99327831757
+206,03110201,3389,NED,Upper Suwannee,Group 1,Suwannee,SUGAR CREEK,STREAM,3F,Biology,Yes,,,Yes,Yes,,10,0,0,1,1,0,Yes,0,0,,,7267476.47555,21120.0367722861
+207,03140105,987,NWD,Perdido Bay,Group 5,Perdido,BAYOU GARCON,ESTUARY,3M,Nutrients,,Yes,,,,,0,10,0,0,0,0,Yes,0,0,,,14588737.195125,25635.8527639377
+208,03140107,935,NWD,Perdido Bay,Group 5,Perdido,WEEKLY BAYOU,ESTUARY,3M,"Dissolved Oxygen, Nutrients",Yes,Yes,,,,,6,12,0,0,0,0,Yes,0,0,,,8083785.817225,16725.9576014961
+209,03140105,635,NWD,Pensacola Bay,Group 4,Pensacola,WHITEOAK BAYOU,ESTUARY,3M,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,4005647.6315375,10038.0809666045
+210,03140105,694,NWD,Pensacola Bay,Group 4,Pensacola,TROUT BAYOU,ESTUARY,3M,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,4358397.6793,12213.1645872392
+211,03140107,697C,NWD,Perdido Bay,Group 5,Perdido,BAYOU MARCUS CREEK,STREAM,3F,"Dissolved Oxygen, Nutrients, Pesticides",Yes,Yes,,,,Yes,5,5,0,0,0,5,Yes,0,0,,,41050177.8039875,58008.9062622123
+212,03140102,712,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,MULLET CREEK,ESTUARY,2,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,18638084.466875,23058.9742600469
+213,03110206,3519Z,NED,Santa Fe River,Group 1,Suwannee,ICHETUCKNEE SPRING GROUP,SPRING,3F,Pesticides,Yes,,,,,Yes,1,0,0,0,0,5,Yes,0,0,,,72594.2123,956.331056416413
+214,03100208,1329P,SWD,Upper Withlacoochee,Group 4,Withlacoochee,DOWLING LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,331206.34905,3402.88884764863
+215,03100208,1329G,SWD,Upper Withlacoochee,Group 4,Withlacoochee,WITHLACOOCHEE RIVER,STREAM,3F,"Biology, Dissolved Oxygen",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,268975771.832135,163209.367351509
+216,03090101,1619,SWD,Lake Istokpoga,Group 4,Kissimmee River,TIGER CREEK,STREAM,3F,"Biology, Flora",Yes,,,,,,5,0,0,1,1,0,Yes,0,0,,,131229893.643787,94355.2626565725
+217,03100208,1329M,SWD,Upper Withlacoochee,Group 4,Withlacoochee,IRVIN LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,113773.3630375,1556.6566695855
+218,03140101,1162,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,MULE CREEK,STREAM,3F,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,Yes,,5,6,0,0,1,0,Yes,0,0,,,5679895.2909625,13133.4634548579
+219,03100201,2030A,SD,Lemon Bay,Group 2,Charlotte Harbor,ALLIGATOR CREEK,STREAM,3F,Pesticides,,,,,,Yes,0,0,0,0,0,4,Yes,0,4,,Yes,14371528.83765,20453.6410885544
+220,03100102,1991E,SD,Lower Myakka River,Group 3,Sarasota Bay - Peace - Myakka,MYAKKA RIVER (TIDAL SEGMENT),ESTUARY,3M,Nutrients,Yes,Yes,,,,,1,5,0,0,0,0,Yes,0,0,,,11741855.90225,33276.2441150906
+221,03080103,2540,NED,Deep Creek LSJR,Group 2,Lower St. Johns,MOCCASIN BRANCH,STREAM,3F,"Biology, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,57530082.0137125,42522.4578934894
+222,03140102,692,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,BOGGY BAYOU,ESTUARY,3M,"Nutrients, Pesticides",Yes,Yes,,,,Yes,5,5,0,0,0,5,Yes,0,0,,,20154141.58245,26260.5590423845
+223,03080103,2549,NED,Deep Creek LSJR,Group 2,Lower St. Johns,DEEP CREEK,STREAM,3F,Biology,Yes,,,,,,5,0,0,1,1,0,Yes,0,0,,,52737140.4611163,81114.1597728278
+224,03080102,2693,NED,Orange Creek,Group 1,Ocklawaha,LOCHLOOSA CREEK,STREAM,3F,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,0,0,,,77065186.89085,72269.6421098639
+225,03090204,3258B2,SD,Estero Bay,Group 1,Everglades West Coast,HENDRY CREEK,ESTUARY,3M,Microbiology,Yes,,,,,,6,0,0,0,0,0,Yes,10,10,Yes,Yes,28816312.3825,25612.6735100575
+226,03090204,3258C4,SD,Estero Bay,Group 1,Everglades West Coast,MULLOCK CREEK (MARINE SEGMENT),ESTUARY,3M,Microbiology,Yes,,,,,,2,0,0,0,0,0,Yes,5,5,Yes,Yes,17255735.182525,21299.3460563396
+227,03090206,3245F,SED,C-51,Group 3,Lake Worth Lagoon - Palm Beach Coast,C-51 EAST,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,163130153.863075,80316.3213148027
+228,03080203,3129B1,SED,South Central Indian River Lagoon,Group 5,Indian River Lagoon,SOUTH PRONG ST. SEBASTIAN RIVER (ESTUARINE SEGMENT),ESTUARY,3M,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,,,9,5,0,0,0,0,Yes,2,0,Yes,,8870764.41585,12446.972612439
+229,03080201,2535A,NED,Matanzas River,Group 5,Upper East Coast,MOSES CREEK (MARINE SEGMENT),ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,2074877.749575,8429.80530176529
+230,03080101,2987B,CD,Wekiva River,Group 2,Middle St. Johns,LITTLE WEKIVA (WEST),STREAM,3F,"Flora, Pesticides",Yes,Yes,,,Yes,Yes,1,1,0,0,1,5,Yes,0,0,,,445391.5823,2855.16499066391
+231,03080101,3004M,CD,Wekiva River,Group 2,Middle St. Johns,LAKE LOTUS,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,468905.759775,3841.6805908387
+232,03080101,2997B1,CD,Lake Jesup,Group 2,Middle St. Johns,LAKE ANN,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,61087.5889375,924.595953445561
+233,03080103,2617A,NED,Crescent Lake,Group 2,Lower St. Johns,LAKE BROWARD,LAKE,3F,Nutrients,,Yes,Yes,Yes,,,0,20,20,2,0,0,Yes,20,0,Yes,,1955930.0369625,10754.0234288192
+234,03080102,2754,NED,Orange Creek,Group 1,Ocklawaha,CROSS CREEK,STREAM,3F,Flora,Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,1448706.64355,5457.509791108
+235,03080103,2623,NED,Crescent Lake,Group 2,Lower St. Johns,SILVER LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,440613.2062215,4687.95759866127
+236,03140203,570,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,SEVEN RUNS,STREAM,3F,Biology,,,,Yes,Yes,,0,0,0,1,1,0,Yes,0,0,,,45106704.3034625,63540.605975482
+237,03100207,1382B,SWD,Middle Coastal,Group 5,Springs Coast,WEEKI WACHEE SPRING GROUP,SPRING,3F,Nutrients,,Yes,,,,,0,2,0,0,0,0,Yes,0,0,,,3362.5398,212.82052762013
+238,03090204,3278D,SD,Southwest Coast,Group 1,Everglades West Coast,COCOHATCHEE (INLAND SEGMENT),STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,12,12,Yes,Yes,95122345.650898,64759.4420003058
+239,03070204,2097E,NED,Middle St. Marys River,Group 4,Nassau - St. Marys,ST MARYS RIVER,STREAM,3F,Metals,Yes,Yes,Yes,,,,5,5,10,0,0,0,Yes,0,0,,,4328830.7931,22902.1104944628
+240,03130011,487,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,FLAT CREEK,STREAM,3F,"Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,,,Yes,5,5,5,0,0,5,Yes,0,0,,,38324338.3516,58561.9284903638
+241,03070204,2105,NED,Middle St. Marys River,Group 4,Nassau - St. Marys,PIGEON CREEK,STREAM,3F,Nutrients,,Yes,Yes,,,,0,5,10,0,0,0,Yes,2,0,Yes,,19587790.516,28433.3341166673
+242,03090205,3237D,SD,East Caloosahatchee,Group 3,Caloosahatchee,FLAGHOLE CANAL,STREAM,3F,"Nutrients, Pesticides",Yes,Yes,,,,Yes,1,5,0,0,0,5,Yes,0,0,,,167468705.133125,72135.8105327634
+243,03140104,127,NWD,Blackwater River,Group 4,Pensacola,MANNING CREEK,STREAM,3F,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,,,5,10,0,0,0,0,Yes,0,0,,,31756590.785075,35392.1572471367
+244,03090206,3194A,SED,North St. Lucie,Group 2,St. Lucie - Loxahatchee,TENMILE CREEK,STREAM,3F,Flora,Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,190434950.096125,59430.5479326286
+245,03100102,1869B,SWD,Upper Myakka River,Group 3,Sarasota Bay - Peace - Myakka,MYAKKA RIVER (UPPER SEGMENT),STREAM,3F,Microbiology,Yes,,,,,,1,0,0,0,0,0,Yes,2,0,Yes,,7625608.6556375,15710.921156297
+246,03080103,2667A,CD,Crescent Lake,Group 2,Lower St. Johns,LAKE DIAS,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,2904419.59555,8630.43803292686
+247,03080203,3163,SED,C-25,Group 5,Indian River Lagoon,FORT PIERCE FARM CANAL (BELCHER CANAL/TAYLOR CREEK),STREAM,3F,"Dissolved Oxygen, Flora, Microbiology, Nutrients, Pesticides",Yes,Yes,,,Yes,Yes,5,5,0,0,1,5,Yes,0,0,,,99108025.6052,53806.3961844672
+248,03130012,151A,NWD,Chipola River,Group 2,Apalachicola - Chipola,MARSHALL CREEK,STREAM,3F,"Biology, Dissolved Oxygen",Yes,,,Yes,Yes,,6,0,0,1,1,0,Yes,0,0,,,88096709.6477625,85970.7095965093
+249,03090101,1436,SWD,Upper Kissimmee,Group 4,Kissimmee River,HORSE (HORSESHOE) CREEK,STREAM,3F,"Biology, Dissolved Oxygen",,,,Yes,Yes,,0,0,0,1,1,0,Yes,0,0,,,66925361.278,55293.6336244209
+250,03080101,3002G,CD,Wekiva River,Group 2,Middle St. Johns,LAKE LOTTA,LAKE,3F,"Biology, Nutrients",,Yes,Yes,Yes,,,0,5,5,1,0,0,Yes,0,0,,,161183.276125,2468.49767394854
+251,03100101,1757A,SWD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,PAYNE CREEK (LOWER SEGMENT),STREAM,3F,Flora,Yes,Yes,,,Yes,,1,1,0,0,1,0,Yes,0,0,,,4618281.8237875,9335.85498013933
+252,03140101,876,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,COURT MARTIAL LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,924585.9038875,3528.75227731167
+253,03140101,1142,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,BOGGY CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,Yes,Yes,,5,6,0,1,1,0,Yes,0,0,,,8651991.0656,18802.5729603657
+254,03130011,375D,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,APALACHICOLA RIVER,STREAM,3F,"Metals, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,17186610.1890875,22623.0521947625
+255,03080102,2835C,CD,Lake Apopka,Group 1,Ocklawaha,APOPKA SPRING,SPRING,3F,Nutrients,,Yes,,,,,0,4,0,0,0,0,Yes,0,0,,,36973.1245375,744.370257309182
+256,03100207,1668E,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,ST JOE CREEK (TIDAL SEGMENT),ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,4,5,0,0,0,0,Yes,0,0,,,2623535.370175,8171.18307561768
+257,03100103,3240O,SD,Pine Island,Group 2,Charlotte Harbor,PUNTA RASA COVE,ESTUARY,2,Nutrients,Yes,Yes,,,,,6,6,0,0,0,0,Yes,0,0,,,8031387.460775,16039.8269242362
+258,03090206,3211,SED,South St. Lucie - Indian River Lagoon,Group 2,St. Lucie - Loxahatchee,BESSEY CREEK,ESTUARY,3M,"Dissolved Oxygen, Metals, Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,,,Yes,5,10,10,0,0,10,Yes,0,3,,Yes,14782704.6543125,17636.2045921964
+259,03090206,3210D,SED,South St. Lucie - Indian River Lagoon,Group 2,St. Lucie - Loxahatchee,SOUTH FORK ST LUCIE RIVER (FRESHWATER SEGMENT),STREAM,3F,Biology,Yes,,,Yes,Yes,,10,0,0,1,1,0,Yes,0,0,,,77909627.6263125,59073.9288697339
+260,03100202,1848B,SWD,Manatee River,Group 2,Tampa Bay Tributaries,MANATEE RIVER ABOVE BRADEN RIVER,ESTUARY,3M,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,5,5,Yes,Yes,66630858.0964,55256.6623407035
+261,03090101,1813E,SD,Lake Istokpoga,Group 4,Kissimmee River,BONNET LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,1054163.6274625,4621.58992997169
+262,03080201,2320B2,NED,Tolomato River,Group 5,Upper East Coast,GUANA RIVER BELOW LAKE VEDRA,STREAM,3F,Flora,Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,9207911.5889875,16043.6026142433
+263,03100101,1449A,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE DEESON,LAKE,3F,Biology,,Yes,Yes,Yes,,,0,1,1,1,0,0,Yes,0,0,,,182071.374775,2268.66815940923
+264,03140102,557,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,MAGNOLIA CREEK,STREAM,3F,"Biology, Flora",Yes,,,,,,10,0,0,1,1,0,Yes,0,0,,,21902122.9216,26196.8272984623
+265,03100101,2054,SD,Lower Peace River,Group 3,Sarasota Bay - Peace - Myakka,MYRTLE SLOUGH,STREAM,3F,Metals,,,Yes,,,,0,0,20,0,0,0,Yes,0,0,,,91043062.3091875,49074.5654107374
+266,03100102,2053,SD,Lower Myakka River,Group 3,Sarasota Bay - Peace - Myakka,TRAILER PARK CANAL,ESTUARY,2,Metals,,Yes,Yes,,,,0,6,6,0,0,0,Yes,0,0,,,2327694.50735,7923.75096427899
+267,03100202,1913,SWD,Manatee River,Group 2,Tampa Bay Tributaries,NONSENSE CREEK,STREAM,1,"Biology, Dissolved Oxygen",Yes,,,,,,1,0,0,1,1,0,Yes,0,0,,,4815668.9768875,9843.7941664322
+268,03080101,2962,CD,Lake Monroe,Group 2,Middle St. Johns,SMITH CANAL,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,25638134.7038125,59087.9314856421
+269,03090101,1573A,SWD,Upper Kissimmee,Group 4,Kissimmee River,TIGER LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,3,0,0,0,0,Yes,0,0,,,8662920.7242125,13346.7541978274
+270,03140104,11,NWD,Blackwater River,Group 4,Pensacola,BIG COLDWATER CREEK,STREAM,3F,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,10,5,0,0,0,Yes,0,0,,,71071284.5324875,81791.35570262
+271,03070205,2162,NED,Nassau River,Group 4,Nassau - St. Marys,CUSHING CREEK,STREAM,3F,"Biology, Microbiology, Nutrients",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,0,0,,,16449247.7830375,23186.5271604314
+272,03090101,1842A,SD,Lake Istokpoga,Group 4,Kissimmee River,LITTLE RED WATER LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,1332607.0878875,5645.48082245901
+273,03140203,195,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,SCURLOCK CREEK,STREAM,3F,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,13078187.8435,22675.3176251384
+274,03130012,199,NWD,Chipola River,Group 2,Apalachicola - Chipola,RUSS MILL CREEK,STREAM,3F,"Biology, Microbiology, Nutrients",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,0,0,,,51794035.1616125,56717.6400809083
+275,03140101,1061H,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,NORTH BAY (NORTH SEGMENT2),ESTUARY,2,Microbiology,Yes,Yes,,,,,7,4,0,0,0,0,Yes,0,0,,,6604589.7178875,24773.6254727014
+276,03100207,1348A,SWD,Homosassa River,Group 5,Springs Coast,BLUEBIRD SPRINGS,SPRING,3F,Nutrients,,Yes,,,,,0,2,0,0,0,0,Yes,0,0,,,3357.9083625,290.742925510702
+277,03100204,1639,SWD,Alafia River,Group 2,Tampa Bay Tributaries,THIRTYMILE CREEK,STREAM,3F,"Biology, Flora",Yes,,,,,,4,0,0,1,1,0,Yes,0,0,,,16610354.087125,23679.716210247
+278,03090101,1813L,SD,Lake Istokpoga,Group 4,Kissimmee River,LAKE GLENADA,LAKE,3F,Nutrients,,Yes,,,,,0,6,0,0,0,0,Yes,0,0,,,734214.519075,4627.71178869276
+279,03100204,1665A,SWD,Alafia River,Group 2,Tampa Bay Tributaries,MIZELLE CREEK,STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,22118288.62025,26429.961221184
+280,03140101,966,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,MERIAL LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,1031190.539825,6585.57066677679
+281,03140101,1056B,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,BAYOU GEORGE CREEK,STREAM,1,"Biology, Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,0,0,,,92396833.1480125,88600.4210740058
+282,03130012,1075,NWD,Chipola River,Group 2,Apalachicola - Chipola,STONE MILL CREEK,STREAM,3F,"Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,71530819.166875,91021.4291172278
+283,03130012,51A,NWD,Chipola River,Group 2,Apalachicola - Chipola,DEAD LAKES,LAKE,3F,"Biology, Dissolved Oxygen, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,76187756.3774375,49369.8866668187
+284,03130011,375I,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,BROTHERS RIVER,STREAM,3F,"Metals, Microbiology, Pesticides",Yes,,Yes,,,Yes,6,0,4,0,0,4,Yes,0,0,,,101943257.75515,49295.2103474058
+285,03110102,3473A1,NED,Fenholloway,Group 1,Suwannee,FENHOLLOWAY RIVER AT MOUTH (MARINE SEGMENT),ESTUARY,3M,Microbiology,Yes,Yes,,,,,6,6,0,0,0,0,Yes,0,0,,,16513510.2545375,19100.9169428666
+286,03090101,1938C,SD,Lake Placid,Group 4,Kissimmee River,LAKE PLACID,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,4,0,Yes,,13732730.99065,18101.9917753154
+287,03100208,1340N,SWD,Tsalo Apopka,Group 4,Withlacoochee,HENDERSON LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,1806726.66615,11778.1924264969
+288,03080102,2835D,CD,Lake Apopka,Group 1,Ocklawaha,LAKE APOPKA,LAKE,3F,Biology,,Yes,,Yes,,Yes,0,1,0,1,0,1,Yes,1,0,Yes,,123971413.130015,61523.6431935751
+289,03080102,2854A,CD,Lake Apopka,Group 1,Ocklawaha,MARSHALL LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,232415.3771125,1862.99584018337
+290,03090101,3170A,CD,Upper Kissimmee,Group 4,Kissimmee River,REEDY CREEK BELOW LAKE RUSSELL,STREAM,3F,Flora,Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,37376010.3069375,28834.7718422576
+291,03080101,3024A,CD,Econlockhatchee River,Group 2,Middle St. Johns,TRIBUTARY TO LITTLE ECONLOCKHATCHEE RIVER,STREAM,3F,"Biology, Microbiology",Yes,,,Yes,Yes,,3,0,0,1,1,0,Yes,5,5,Yes,Yes,4452013.7591,10934.0944267754
+292,03080201,2674B,CD,Halifax River,Group 5,Upper East Coast,STRICKLAND BAY,ESTUARY,3M,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,3,3,Yes,Yes,1782259.476625,7330.81993104448
+293,03080103,2630C,CD,Crescent Lake,Group 2,Lower St. Johns,LITTLE HAW CREEK (ABOVE LAKE DISSTON),STREAM,3F,"Biology, Dissolved Oxygen, Microbiology",Yes,,Yes,Yes,Yes,,4,0,5,1,1,0,Yes,0,0,,,141882739.363838,89473.8695748084
+294,03130012,1154,NWD,Chipola River,Group 2,Apalachicola - Chipola,BIG BRANCH,STREAM,3F,"Metals, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,3,0,Yes,,6627753.675325,11872.4580417624
+295,03140103,167A,NWD,Yellow River,Group 4,Pensacola,GUM CREEK,STREAM,3F,Microbiology,Yes,,,,,,1,0,0,0,0,0,Yes,6,0,Yes,,11779018.09585,16226.2159547271
+296,03140103,266A,NWD,Yellow River,Group 4,Pensacola,KINGS LAKE,LAKE,3F,Biology,,Yes,Yes,Yes,,,0,1,1,1,0,0,Yes,0,0,,,1463029.340975,10805.5477679551
+297,03140103,266B,NWD,Yellow River,Group 4,Pensacola,HOLLY LAKE,LAKE,3F,Biology,,Yes,Yes,Yes,,,0,1,1,1,0,0,Yes,0,0,,,972890.2826,8198.32004671507
+298,03090101,1932I,SD,Lake Placid,Group 4,Kissimmee River,BUCK LAKE,LAKE,3F,Biology,,Yes,Yes,Yes,,,0,1,1,1,0,0,Yes,1,0,Yes,,40914.097875,732.085423329567
+299,03110203,3366,NED,Withlacoochee River,Group 1,Suwannee,LAKE FRANCIS OUTLET,STREAM,3F,"Biology, Dissolved Oxygen",,Yes,,Yes,Yes,,0,6,0,1,1,0,Yes,0,0,,,213279450.156825,90264.7339998719
+300,03090101,3174D,CD,Upper Kissimmee,Group 4,Kissimmee River,COON LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,605503.7044125,2896.95898382846
+301,03140101,1056A,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,BAYOU GEORGE LAKE,LAKE,1,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,19462755.281625,20949.83597867
+302,03080103,2207A,NED,Trout River,Group 2,Lower St. Johns,BLOCKHOUSE CREEK (FRESHWATER SEGMENT),STREAM,3F,"Biology, Metals, Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,Yes,Yes,Yes,5,5,10,1,1,5,Yes,0,0,,,5468256.2435375,9884.3923583633
+303,03140106,149,NWD,Perdido River,Group 5,Perdido,MCDAVID CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,6,4,0,0,0,0,Yes,2,0,Yes,,49502027.1463375,63375.3687570243
+304,03100208,1329H,SWD,Upper Withlacoochee,Group 4,Withlacoochee,LAKE LINDSEY,LAKE,3F,"Biology, Dissolved Oxygen, Nutrients",Yes,Yes,,Yes,,,1,5,0,1,0,0,Yes,0,0,,,557248.7515375,3705.42956083069
+305,03100206,1570Y,SWD,Coastal Old Tampa Bay Tributary,Group 1,Tampa Bay,EGYPT LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,2,0,0,0,0,Yes,4,0,Yes,,254646.0347125,2433.6186890226
+306,03090204,3258C2,SD,Estero Bay,Group 1,Everglades West Coast,MULLOCK CREEK,STREAM,3F,Microbiology,Yes,,,,,,1,0,0,0,0,0,Yes,6,6,Yes,Yes,16044811.76555,19519.1496443526
+307,03100206,1686,SWD,Coastal Hillsborough Bay Tributary,Group 1,Tampa Bay,TADPOLE CREEK,STREAM,3F,"Biology, Microbiology, Nutrients",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,0,0,,,5276429.2591875,10305.0345525758
+308,03080101,2986D,CD,Lake Jesup,Group 2,Middle St. Johns,LAKE ALMA,LAKE,3F,"Dissolved Oxygen, Nutrients",,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,84379.1663,1640.49245462643
+309,03080101,3021,CD,Econlockhatchee River,Group 2,Middle St. Johns,UNNAMED BRANCH,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,16018624.873225,19435.9159119239
+310,03090102,3213A,SED,NHLMS Complex,Group 1,Lake Okeechobee,LETTUCE CREEK,STREAM,3F,Metals,,Yes,Yes,,Yes,,0,1,10,0,1,0,Yes,0,0,,,12691352.0536,16438.0964629045
+311,03070204,2127A,NED,Lower St. Marys River,Group 4,Nassau - St. Marys,EGANS CREEK,ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,5,15,0,0,0,0,Yes,4,4,Yes,Yes,18533570.311525,29156.4361115878
+312,03090101,1685F,SWD,Lake Istokpoga,Group 4,Kissimmee River,LIVINGSTON CREEK (WEST SEGMENT),STREAM,3F,"Biology, Flora, Nutrients",Yes,Yes,,Yes,Yes,,5,6,0,1,1,0,Yes,0,0,,,17717566.1378,23226.8075329164
+313,03090205,3236A,SD,Telegraph Swamp,Group 3,Caloosahatchee,TELEGRAPH CREEK,STREAM,3F,"Biology, Microbiology, Pesticides",Yes,,,Yes,Yes,Yes,3,0,0,1,1,1,Yes,0,0,,,14269957.4698703,21111.2687060885
+314,03100101,1623F,SWD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,PEACE RIVER ABOVE TROUBLESOME CREEK,STREAM,3F,"Microbiology, Pesticides",Yes,,,,,Yes,2,0,0,0,0,6,Yes,0,0,,,51511404.031525,52604.6599386817
+315,03140305,25A,NWD,Escambia River,Group 4,Pensacola,LAKE STONE (SOUTHWEST OF CENTURY),LAKE,3F,Nutrients,,Yes,Yes,,,,0,5,5,0,0,0,Yes,0,0,,,418201.5817875,5766.28398474325
+316,03140104,50,NWD,Blackwater River,Group 4,Pensacola,OAK CREEK,STREAM,3F,Microbiology,Yes,,Yes,,,,5,0,5,0,0,0,Yes,0,0,,,11031650.6596375,16730.4033315415
+317,03140103,34,NWD,Yellow River,Group 4,Pensacola,HORSEHEAD CREEK,STREAM,3F,"Biology, Nutrients",,Yes,Yes,Yes,Yes,,0,5,5,1,1,0,Yes,0,0,,,40382064.2601125,48398.848029559
+318,03140101,1111,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,SANDY CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,2,0,Yes,,72891116.8289375,49370.7699138449
+319,03140203,371,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,PANTHER CREEK,STREAM,3F,Nutrients,Yes,Yes,,,,,5,5,0,0,0,0,Yes,2,0,Yes,,17657076.6145875,27670.443787461
+320,03100201,1982,SD,Sarasota Bay,Group 3,Sarasota Bay - Peace - Myakka,SOUTH CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology, Pesticides",Yes,,,Yes,Yes,Yes,6,0,0,1,1,5,Yes,5,5,Yes,Yes,22879983.903125,27778.0800236683
+321,03140102,468,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,JUNIPER CREEK ABOVE TENMILE CREEK,STREAM,3F,"Biology, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,6,6,1,1,0,Yes,0,0,,,22781824.1871875,24590.5858870426
+322,03140102,476,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,LITTLE ROCKY CREEK,STREAM,3F,Microbiology,Yes,,,,,,6,0,0,0,0,0,Yes,3,0,Yes,,36709199.0797,34183.4938030016
+323,03100202,1840,SWD,Manatee River,Group 2,Tampa Bay Tributaries,GILLEY CREEK,STREAM,1,"Biology, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,27518816.9338375,28858.9511553989
+324,03100101,1488C1,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,GUM LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,653085.3949375,3116.94994790238
+325,03090101,3192C,SED,Lower Kissimmee,Group 4,Kissimmee River,OAK CREEK,STREAM,3F,"Dissolved Oxygen, Flora, Metals, Microbiology, Nutrients",Yes,Yes,Yes,,Yes,,5,5,5,0,1,0,Yes,0,0,,,32209569.49715,24284.6440529515
+326,03140203,94,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,LIMESTONE BRANCH,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,10584503.4064,21336.9522099062
+327,03070204,2196,NED,Middle St. Marys River,Group 4,Nassau - St. Marys,DEEP CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,40219502.0875875,29445.7007676999
+328,03090101,1761D1,SD,Lake Istokpoga,Group 4,Kissimmee River,MORGAN HOLE CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology",Yes,,,Yes,Yes,,6,0,0,1,1,0,Yes,3,0,Yes,,127442288.481112,53913.7383012585
+329,03120001,647F,NWD,Lake Lafayette,Group 1,Ochlockonee - St. Marks,LAKE KANTURK,LAKE,3F,Biology,Yes,Yes,,Yes,,Yes,1,1,0,1,0,1,Yes,0,0,,,300508.5688,5085.59862790133
+330,03140305,25,NWD,Escambia River,Group 4,Pensacola,WIGGINS BRANCH,STREAM,3F,"Metals, Microbiology",Yes,,Yes,,,,5,0,5,0,0,0,Yes,0,0,,,13526683.5793875,23159.6019510734
+331,03080101,3140,SED,Blue Cypress Creek,Group 3,Upper St. Johns,LAKE KENANSVILLE,LAKE,1,Biology,Yes,Yes,,Yes,,,5,4,0,1,0,0,Yes,0,0,,,21927695.982825,24063.865277535
+332,03090101,1761C,SD,Lake Istokpoga,Group 4,Kissimmee River,ARBUCKLE BRANCH,STREAM,3F,"Biology, Microbiology",Yes,,,,,,5,0,0,1,1,0,Yes,4,0,Yes,,77514337.5465375,38662.0802404
+333,03090101,1761J,SD,Lake Istokpoga,Group 4,Kissimmee River,ARBUCKLE CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,4,5,0,0,0,0,Yes,0,0,,,100437504.361175,61092.1930301341
+334,03100205,1543B,SWD,Hillsborough River,Group 2,Tampa Bay Tributaries,LAKE BEULAH,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,6,0,1,0,0,Yes,0,0,,,73846.97,981.912880789062
+335,03090205,3237E,SD,East Caloosahatchee,Group 3,Caloosahatchee,C-19 CANAL,STREAM,3F,"Nutrients, Pesticides",Yes,Yes,,,,Yes,5,10,0,0,0,5,Yes,0,0,,,154588851.020963,66546.0653459185
+336,03100206,1463M,SWD,Coastal Old Tampa Bay Tributary,Group 1,Tampa Bay,LITTLE LAKE WILSON,LAKE,3F,Biology,,Yes,,Yes,,,0,4,0,1,0,0,Yes,0,0,,,192548.0323125,1848.91475045193
+337,03080101,28933,CD,Lake Woodruff,Group 2,Middle St. Johns,VOLUSIA BLUE SPRING,SPRING,3F,"Nutrients, Pesticides",,Yes,,,,Yes,0,5,0,0,0,6,Yes,0,0,,,1529.48435,153.302539910169
+338,03080103,2203C,NED,Trout River,Group 2,Lower St. Johns,TRIBUTARY TO TROUT RIVER,ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,5,9,0,0,0,0,Yes,0,0,,,2154397.490675,7713.54361450751
+339,03080101,2964C,CD,Puzzle Lake,Group 3,Upper St. Johns,RUTH LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,1138360.659575,8060.09436450682
+340,03090204,3258D3,SD,Estero Bay,Group 1,Everglades West Coast,ESTERO RIVER,STREAM,3F,Biology,Yes,,,Yes,Yes,,3,0,0,1,1,0,Yes,0,0,,,151739090.249703,77549.6148390521
+341,03080201,2674,CD,Halifax River,Group 5,Upper East Coast,SPRUCE CREEK,STREAM,3F,"Flora, Metals, Pesticides",Yes,Yes,Yes,,Yes,Yes,5,2,8,0,1,4,Yes,0,0,,,45774211.394975,36669.9192035873
+342,03080201,2580C,NED,Pellicer Creek,Group 5,Upper East Coast,PELLICER CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,1,0,Yes,,886168.4993875,5027.82356542185
+343,03080201,2577,NED,Pellicer Creek,Group 5,Upper East Coast,PRINGLE BRANCH,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,2,0,Yes,,59764043.905325,44488.6705321245
+344,03090101,1619C,SWD,Lake Istokpoga,Group 4,Kissimmee River,LAKE LEONORE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,1607152.7338125,5092.31598362984
+345,03090101,1685B,SWD,Lake Istokpoga,Group 4,Kissimmee River,REEDY CREEK,STREAM,3F,Microbiology,,,,,,,0,0,0,0,0,0,Yes,5,5,Yes,Yes,10215666.132575,16125.140027166
+346,03140103,35A,NWD,Yellow River,Group 4,Pensacola,POND CREEK IN MCCLOUD BAY,STREAM,3F,"Biology, Flora, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,3,0,Yes,,12934393.7507625,17142.0529267874
+347,03090101,1573D,SWD,Upper Kissimmee,Group 4,Kissimmee River,WEOHYAKAPKA CREEK,STREAM,3F,Flora,Yes,,,,Yes,,4,0,0,0,1,0,Yes,0,0,,,6683042.0147,24077.2636462903
+348,03080101,3154A,SED,Fort Drum Creek,Group 3,Upper St. Johns,FORT DRUM CREEK,STREAM,3F,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,142355681.392825,91139.2155046107
+349,03090101,1761B,SD,Lake Istokpoga,Group 4,Kissimmee River,ARBUCKLE CREEK ABOVE MORGAN HOLE CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,42507758.894125,33830.928690129
+350,03080101,2962C,CD,Lake Monroe,Group 2,Middle St. Johns,LAKE MINNIE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,168502.8253375,2124.18929624663
+351,03140102,620,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,DEER MOSS CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,8818956.210625,15835.1924659042
+352,03140105,864A,NWD,Pensacola Bay,Group 4,Pensacola,WILLIAMS CREEK,STREAM,3F,Nutrients,Yes,Yes,,,,,2,5,0,0,0,0,Yes,3,0,Yes,,10526969.1215,14015.1372549758
+353,03090206,3245A,SED,C-51,Group 3,Lake Worth Lagoon - Palm Beach Coast,OKEEHEELEE PARK,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,3430011.862,7422.34106757969
+354,03090205,3235F,SD,West Caloosahatchee,Group 3,Caloosahatchee,POLLYWOG CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,5,5,Yes,Yes,76904862.3865875,49116.9679506248
+355,03100201,1971,SD,Sarasota Bay,Group 3,Sarasota Bay - Peace - Myakka,CLARK LAKE,LAKE,3F,Biology,,Yes,Yes,Yes,,,0,1,1,1,0,0,Yes,1,1,Yes,Yes,271541.1608,6958.9980276701
+356,03100101,1950A,SD,Middle Peace River,Group 3,Sarasota Bay - Peace - Myakka,JOSHUA CREEK ABOVE PEACE RIVER,STREAM,3F,"Flora, Microbiology",Yes,Yes,Yes,,Yes,Yes,4,1,1,0,1,1,Yes,1,0,Yes,,88092774.2008968,67039.6399166371
+357,03140105,444,NWD,Pensacola Bay,Group 4,Pensacola,SPENCER FIELD DRAIN,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology",Yes,,Yes,,,,5,0,5,1,1,0,Yes,0,0,,,17611180.3269,19808.9944396005
+358,03140105,893,NWD,Pensacola Bay,Group 4,Pensacola,DIRECT RUNOFF TO BAY,ESTUARY,3M,"Dissolved Oxygen, Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,,,Yes,1,6,6,0,0,6,Yes,0,6,,Yes,34476670.1410375,70902.8674593342
+359,03100201,1951A,SD,Sarasota Bay,Group 3,Sarasota Bay - Peace - Myakka,ISLAND PARK BOAT BASIN,ESTUARY,3M,Nutrients,Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,771535.7332625,5228.92891723247
+360,03090205,3240L,SD,Caloosahatchee Estuary,Group 3,Caloosahatchee,POWELL CREEK,STREAM,3F,Flora,Yes,Yes,,,Yes,,4,1,0,0,1,0,Yes,0,0,,,30136925.3009125,38347.0652686106
+361,03090205,3240J,SD,Orange River,Group 3,Caloosahatchee,BILLY CREEK,ESTUARY,3M,Microbiology,,,,,,,0,0,0,0,0,0,Yes,24,24,Yes,Yes,27932586.39275,25298.3748296003
+362,03140203,226,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,CASSIDY LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,1377809.82135,4715.44669991059
+363,03130011,1272,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,HORSESHOE CREEK,STREAM,3F,Floral,,Yes,,,Yes,,0,1,0,0,1,0,Yes,0,0,,,22393085.80895,20057.5951610034
+364,03140104,356,NWD,Blackwater River,Group 4,Pensacola,BUCKET BRANCH,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology",Yes,Yes,Yes,Yes,Yes,,6,5,5,1,1,0,Yes,0,0,,,3662734.6950875,9953.4258216219
+365,03100101,1549B2,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LITTLE BANANA LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,4,0,1,0,0,Yes,0,0,,,211119.0863625,2635.42748527761
+366,03100101,14922,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE JOE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,44757.0217125,793.696500751795
+367,03100101,1501Z,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE WHISTLER,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,311633.0259625,2130.55386801392
+368,03090101,1860G,SD,Lake Istokpoga,Group 4,Kissimmee River,LITTLE LAKE JACKSON,LAKE,3F,Nutrients,,Yes,,,,,0,6,0,0,0,0,Yes,0,0,,,555770.9237,3102.48768245554
+369,03140101,795A,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,CRYSTAL LAKE,LAKE,3F,Biology,Yes,Yes,Yes,Yes,,,15,5,5,1,0,0,Yes,0,0,,,693138.47485,2981.42423585174
+370,03100206,1516F,SWD,Coastal Old Tampa Bay Tributary,Group 1,Tampa Bay,WHITE TROUT LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,306784.8623125,3244.50422312215
+371,03100204,1568,SWD,Alafia River,Group 2,Tampa Bay Tributaries,HOWELL BRANCH,STREAM,3F,"Flora, Microbiology",Yes,Yes,,,Yes,,6,1,0,0,1,0,Yes,1,1,Yes,Yes,23644181.9968375,26680.3222886191
+372,03080101,2997U,CD,Lake Jesup,Group 2,Middle St. Johns,LAKE PARK,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,136987.9036375,1424.25222389785
+373,03080101,2997V,CD,Lake Jesup,Group 2,Middle St. Johns,LAKE GEM (ORANGE COUNTY),LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,34677.2916375,700.059079526678
+374,03080101,3108B,CD,St. Johns Marsh,Group 3,Upper St. Johns,C-40 (SIXMILE MARSH),STREAM,1,Nutrients,Yes,Yes,,,,,4,2,0,0,0,0,Yes,0,0,,,57902403.1104875,36024.9829744959
+375,03080203,3135A,CD,South Central Indian River Lagoon,Group 5,Indian River Lagoon,C-54 CANAL AT CONFLUENCE WITH ST. SEBASTIAN RIVER,ESTUARY,3M,"Dissolved Oxygen, Nutrients",Yes,Yes,,,,,10,5,0,0,0,0,Yes,0,0,,,5363779.5035375,12478.3654132219
+376,03140203,350,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,BAY BRANCH,STREAM,3F,"Biology, Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,6,6,1,1,0,Yes,0,0,,,11640978.6539,20482.6185119538
+377,03070204,2097G,NED,Middle St. Marys River,Group 4,Nassau - St. Marys,ST MARYS RIVER,STREAM,3F,"Metals, Nutrients",Yes,Yes,Yes,,,,5,5,10,0,0,0,Yes,0,0,,,28912961.077725,73427.3029643634
+378,03070205,2130,NED,Nassau River,Group 4,Nassau - St. Marys,PLUMMER CREEK,ESTUARY,3M,"Dissolved Oxygen, Nutrients",,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,60860239.2277125,53048.127149647
+379,03140106,542,NWD,Perdido River,Group 5,Perdido,REST AREA RUN,STREAM,3F,"Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,,,Yes,5,10,10,0,0,6,Yes,0,0,,,7447966.0130375,13277.1351393265
+380,03140103,429,NWD,Yellow River,Group 4,Pensacola,DEAD RIVER,STREAM,3F,"Biology, Dissolved Oxygen, Flora, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,24887905.0215375,26739.566917509
+381,03140102,432,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,LITTLE ALAQUA CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,3,0,Yes,,48802199.1849375,48691.7565070205
+382,03140103,321,NWD,Yellow River,Group 4,Pensacola,TITI CREEK,STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,1,0,0,1,1,0,Yes,0,0,,,71158057.1061625,106450.290255861
+383,03090202,3266A,SD,Interdrainage Area,Group 1,Everglades West Coast,C-139 ANNEX BASIN (L3 CANAL),STREAM,3F,"Dissolved Oxygen, Flora, Nutrients, Pesticides",Yes,Yes,,,Yes,Yes,6,5,0,0,1,5,Yes,0,0,,,76689410.0347445,41849.1888093955
+384,03090202,3254,SED,Everglades Agricultural Area,Group 5,Everglades,HILLSBORO CANAL,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,328200870.996988,97316.1958322491
+385,03080201,2470,NED,Tolomato River,Group 5,Upper East Coast,SOMBRERO CREEK,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,1490659.4874875,6097.38764247308
+386,03080201,2363I1,NED,Tolomato River,Group 5,Upper East Coast,TOLOMATO RIVER,ESTUARY,3M,Dissolved Oxygen,Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,44794103.9945125,43920.5388480837
+387,03080202,2939,CD,Mosquito Lagoon,Group 5,Indian River Lagoon,UNNAMED DITCHES,STREAM,3F,"Biology, Dissolved Oxygen",Yes,,,Yes,Yes,,4,0,0,1,1,0,Yes,0,0,,,13700164.3508375,18625.3896475625
+388,03080201,2674A,CD,Halifax River,Group 5,Upper East Coast,SPRUCE CREEK,ESTUARY,3M,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,2,0,Yes,,28774205.6123,46071.9057187494
+389,03080201,2535B,NED,Matanzas River,Group 5,Upper East Coast,MOSES CREEK (FRESHWATER SEGMENT),STREAM,3F,Microbiology,Yes,,,,,,1,0,0,0,0,0,Yes,10,0,Yes,,37936377.799425,36188.4668570195
+390,03140203,123,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,ALLIGATOR CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Metals, Nutrients",,Yes,Yes,Yes,Yes,,0,5,5,1,1,0,Yes,0,0,,,108695092.241263,123573.905728131
+391,03140305,10B,NWD,Escambia River,Group 4,Pensacola,ESCAMBIA RIVER,STREAM,3F,"Biology, Metals",,Yes,Yes,Yes,Yes,,0,5,5,1,1,0,Yes,0,0,,,12667967.2231375,22065.2019545731
+392,03140103,145,NWD,Yellow River,Group 4,Pensacola,LAKE KARICK,LAKE,3F,Nutrients,,Yes,Yes,,,,0,5,5,0,0,0,Yes,0,0,,,247293.446125,4731.34064027471
+393,03070204,2247A,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,ST MARYS RIVER (SOUTH PRONG),STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,3,0,Yes,,27620242.1862125,52345.1140233569
+394,03100101,1995,SD,Lower Peace River,Group 3,Sarasota Bay - Peace - Myakka,MYRTLE SLOUGH,STREAM,1,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,2,2,Yes,Yes,62621088.1167315,47234.0745102338
+395,03090202,3252B,SED,Water Conservation Area 1,Group 5,Everglades,WCA 1 (NORTH SECTOR),STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,71769498.4382625,41294.5073353989
+396,03110102,3402,NED,Econfina,Group 1,Suwannee,ECONFINA RIVER,STREAM,3F,Metals,Yes,,Yes,,,,5,0,5,0,0,0,Yes,0,0,Yes,,342581948.882414,249955.689753395
+397,03110201,3401,NED,Upper Suwannee,Group 1,Suwannee,CAMP BRANCH,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,22289838.899025,29235.5220238552
+398,03140101,1141A,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,PARKER CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,5,5,Yes,Yes,12444969.85685,17270.4229684459
+399,03140101,1136,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,WATSON BAYOU,ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,17272126.1891375,20879.0926340078
+400,03140102,646,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,LAFAYETTE CREEK,STREAM,3F,Microbiology,Yes,,Yes,,,,5,0,3,0,0,0,Yes,0,0,,,50482627.5591375,54593.1318634381
+401,03130012,51F,NWD,Chipola River,Group 2,Apalachicola - Chipola,DEAD LAKES (WEST ARM),LAKE,3F,"Biology, Dissolved Oxygen, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,1321817.68795,13543.8061528126
+402,03140101,553Y,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,WILLIFORD SPRING,SPRING,1,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,72590.1635375,956.303341292714
+403,03090205,3240H,SD,Caloosahatchee Estuary,Group 3,Caloosahatchee,WHISKEY CREEK (WYOUA CREEK),STREAM,3F,Flora,Yes,Yes,,,Yes,,3,1,0,0,1,0,Yes,0,0,,,29982499.0504,28038.7824227978
+404,03090206,3194B,SED,North St. Lucie,Group 2,St. Lucie - Loxahatchee,ST LUCIE RIVER (NORTH FORK),ESTUARY,3M,"Metals, Microbiology, Pesticides",Yes,,Yes,,,Yes,10,0,10,0,0,5,Yes,0,0,,,76225507.3211375,45585.4362180879
+405,03100101,2041B,SD,Lower Peace River,Group 3,Sarasota Bay - Peace - Myakka,SHELL CREEK RESERVOIR (HAMILTON RESERVOIR),LAKE,1,Biology,,Yes,Yes,Yes,,,0,1,1,1,0,0,Yes,1,0,Yes,,12046104.206475,21775.5387498592
+406,03100103,2082C,SD,Pine Island,Group 2,Charlotte Harbor,GATOR SLOUGH CANAL,STREAM,3F,"Flora, Microbiology",Yes,Yes,,,Yes,,4,2,0,0,2,0,Yes,0,0,,,93780370.59905,42335.5537945298
+407,03090204,3258F,SD,Estero Bay,Group 1,Everglades West Coast,OAK CREEK,STREAM,3F,Microbiology,Yes,Yes,,,,,1,5,0,0,0,0,Yes,6,5,Yes,Yes,16498788.2486042,19026.2375165926
+408,03140101,1148,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,SANDY BRANCH,STREAM,3F,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,Yes,,11,5,0,0,1,0,Yes,0,0,,,10348022.7164125,18564.3401250045
+409,03140101,555,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,GAP LAKE,LAKE,3F,Biology,Yes,Yes,,Yes,,,4,1,0,1,0,0,Yes,0,0,,,2083121.7576875,9611.76789911228
+410,03140203,227,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,HOOD LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,835093.3618875,7826.58970296065
+411,03080101,2982,CD,Lake Jesup,Group 2,Middle St. Johns,PHELPS CREEK,STREAM,3F,"Biology, Microbiology",Yes,,,Yes,Yes,,6,0,0,1,1,0,Yes,0,0,,,15011767.9386125,22756.6679444383
+412,03140102,468A,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,JUNIPER CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,3,0,Yes,,3617318.3534625,11905.0302647041
+413,03140305,10A,NWD,Escambia River,Group 4,Pensacola,ESCAMBIA RIVER,STREAM,3F,"Biology, Metals, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,5,1,1,0,Yes,0,0,,,36161127.4844125,47015.5131050787
+414,03140105,738,NWD,Pensacola Bay,Group 4,Pensacola,TEXAR BAYOU,ESTUARY,3M,"Metals, Nutrients",Yes,Yes,Yes,,,,5,10,10,0,0,0,Yes,10,0,Yes,,21520423.9289,25717.4845672277
+415,03140103,30C,NWD,Yellow River,Group 4,Pensacola,YELLOW RIVER,STREAM,3F,"Biology, Microbiology",Yes,,Yes,Yes,Yes,,6,0,5,1,1,0,Yes,2,0,Yes,,13543350.86225,19568.8900781865
+416,03140106,494,NWD,Perdido River,Group 5,Perdido,MUSCOGEE CREEK,STREAM,3F,Metals,Yes,,Yes,,,,5,0,4,0,0,0,Yes,0,0,,,19842726.2463875,23378.6395839051
+417,03140102,495,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,TURKEY CREEK,STREAM,3F,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,3,0,Yes,,49102618.7925125,49218.3147861593
+418,03140107,489A,NWD,Perdido Bay,Group 5,Perdido,TENMILE CREEK,STREAM,3F,Microbiology,Yes,,Yes,,,,5,0,10,0,0,0,Yes,0,0,,,11229896.784275,15274.9429272591
+419,03080101,2981A,CD,Lake Monroe,Group 2,Middle St. Johns,LAKE JESUP NEAR ST JOHNS RIVER,LAKE,3F,Nutrients,,Yes,,,,,0,2,0,0,0,0,Yes,0,0,,,151708.1881875,4292.18264433969
+420,03080101,2994A,CD,Lake Jesup,Group 2,Middle St. Johns,GEE CREEK,STREAM,3F,"Biology, Microbiology, Pesticides",Yes,,,,,Yes,5,0,0,1,1,6,Yes,0,0,,,25966889.9235125,34859.887838271
+421,03080101,3161,SED,Fort Drum Creek,Group 3,Upper St. Johns,SWEETWATER BRANCH,STREAM,3F,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,5,0,Yes,,13327959.722675,22454.7737572597
+422,03080101,3029,CD,Tosohatchee,Group 3,Upper St. Johns,BIRD LAKE TRIBUTARIES,STREAM,3F,Nutrients,Yes,Yes,,,,,1,5,0,0,0,0,Yes,0,0,,,21657839.0788,31402.6998450058
+423,03080201,2553,NED,Pellicer Creek,Group 5,Upper East Coast,CRACKER BRANCH,STREAM,3F,"Dissolved Oxygen, Nutrients",,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,36202200.1908125,35064.0198993166
+424,03080103,2213P2,NED,Ortega River,Group 2,Lower St. Johns,CEDAR RIVER,ESTUARY,3M,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,5537928.6323125,12776.2688794059
+425,03100101,1539G,SWD,Upper Peace River,Group 3,Sarasota Bay - Peace - Myakka,LAKE GORDON,LAKE,3F,"Biology, Dissolved Oxygen, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,95491.2646,1143.2207958289
+426,03090202,8069,SD,Everglades National Park,Group 5,Everglades,"GULF OF MEXICO (EVERGLADES NATIONAL PARK; CAPE SABLE)",COASTAL,2,Nutrients,Yes,Yes,,,,,5,6,0,0,0,0,Yes,0,0,,,91673796.2034875,57794.8840880537
+427,03090202,8067,SD,Everglades National Park,Group 5,Everglades,GULF OF MEXICO (EVERGLADES NATIONAL PARK),COASTAL,2,Nutrients,Yes,Yes,,,,,5,6,0,0,0,0,Yes,0,0,,,112513861.276375,85761.2671805247
+428,03090101,3209,SD,Lower Kissimmee,Group 4,Kissimmee River,KISSIMMEE RIVER,STREAM,3F,"Dissolved Oxygen, Nutrients",Yes,Yes,,,Yes,,5,5,0,0,1,0,Yes,4,0,Yes,,66876429.8106875,49168.3477482224
+429,03090101,1932G,SD,Lake Placid,Group 4,Kissimmee River,LAKE APTHORPE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,875961.466175,5475.60323935138
+430,03080101,2990,CD,Lake Jesup,Group 2,Middle St. Johns,SALT CREEK,STREAM,3F,"Microbiology, Pesticides",Yes,,,,,Yes,6,0,0,0,0,5,Yes,0,0,,,14685045.827125,26234.4166970345
+431,03080101,3133,CD,Blue Cypress Creek,Group 3,Upper St. Johns,BLUE CYPRESS CREEK,STREAM,1,"Biology, Flora",Yes,,,Yes,Yes,,10,0,0,1,1,0,Yes,0,0,,,83440067.394425,83362.6815815152
+432,03080201,2551A,NED,Pellicer Creek,Group 5,Upper East Coast,STEVENS BRANCH,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,10,0,0,0,0,Yes,4,0,Yes,,35034397.35835,42527.8056171413
+433,03080101,3024,CD,Econlockhatchee River,Group 2,Middle St. Johns,LAKE DOWNEY,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,72320.5364625,966.9845994253
+434,03090101,1472C,SWD,Upper Kissimmee,Group 4,Kissimmee River,DEAD RIVER,STREAM,3F,"Dissolved Oxygen, Nutrients, Pesticides",Yes,Yes,,,,Yes,1,4,0,0,0,4,Yes,0,0,,,10047226.9284875,15190.3418450011
+435,03090103,3206,SD,Northwest Lake Okeechobee,Group 4,Fisheating Creek,INDIAN PRAIRIE CANAL,STREAM,3F,"Nutrients, Pesticides",,Yes,,,,Yes,0,7,0,0,0,7,Yes,0,0,,,150982573.366863,84268.4846768146
+436,03080101,3084,CD,Jane Green Creek,Group 3,Upper St. Johns,JANE GREEN CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Flora",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,37672078.273225,33552.8983273229
+437,03140101,686,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,THE DEADENINGS (HAMLIN LAKE),LAKE,3F,Biology,Yes,Yes,,Yes,,,5,1,0,1,0,0,Yes,0,0,,,1189606.9556875,12304.6348996172
+438,03130011,375B,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,APALACHICOLA RIVER,STREAM,3F,Nutrients,Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,18989505.5286625,18645.4285892962
+439,03090204,3258X,SD,Estero Bay,Group 1,Everglades West Coast,THE LAKES PARK,LAKE,3F,Biology,,Yes,Yes,Yes,,,0,1,1,1,0,0,Yes,1,0,Yes,,12130981.3083,15236.3919960582
+440,03100201,2078B,SD,Lemon Bay,Group 2,Charlotte Harbor,CORAL CREEK (EAST BRANCH),ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,6,11,0,0,0,0,Yes,0,0,,,10926695.5795625,15632.4594721385
+441,03140105,833,NWD,Pensacola Bay,Group 4,Pensacola,TOM KING CREEK,STREAM,3F,Microbiology,Yes,,,,,,1,0,0,0,0,0,Yes,5,0,Yes,,13041881.174925,15307.2408782313
+442,03090101,1938A,SD,Lake Placid,Group 4,Kissimmee River,LAKE JUNE IN WINTER,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,4,0,Yes,,14955760.1826125,21930.3772165842
+443,03090102,3203B,SED,NHLMS Complex,Group 1,Lake Okeechobee,MOSQUITO CREEK,STREAM,3F,"Flora, Microbiology",Yes,Yes,,,Yes,,5,2,0,0,2,0,Yes,0,0,,,32742142.3743625,28704.2716621867
+444,03090102,3203C,SED,TOL Complex,Group 1,Lake Okeechobee,L-63 CANAL,STREAM,3F,Flora,Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,0,0,,,26327147.6945875,29381.2937134551
+445,03090102,3205C1,SED,CTP Complex,Group 1,Lake Okeechobee,LEMKIN CREEK,STREAM,3F,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,Yes,,5,10,0,0,1,0,Yes,0,0,,,60879539.5139625,33980.505781539
+446,03100207,1508B,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,LAKE INNISBROOK,LAKE,3F,Nutrients,,Yes,,,,,0,6,0,0,0,0,Yes,0,0,,,190357.6092,1983.6085191616
+447,03140104,11A,NWD,Blackwater River,Group 4,Pensacola,WEST FORK,STREAM,3F,Nutrients,Yes,Yes,,,,,5,10,0,0,0,0,Yes,0,0,,,39809112.6453375,33269.8372626756
+448,03140107,697A,NWD,Perdido Bay,Group 5,Perdido,CRESCENT LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,329443.75735,5871.093034407
+449,03140102,658,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,SHAW STILL BRANCH,STREAM,3F,Microbiology,Yes,,,,,,3,0,0,0,0,0,Yes,1,1,Yes,Yes,2851679.434675,9142.26084134733
+450,03140105,676,NWD,Pensacola Bay,Group 4,Pensacola,CARPENTER CREEK,STREAM,3F,Pesticides,Yes,Yes,,,,Yes,1,5,0,0,0,5,Yes,0,0,,,27370288.3717625,30665.7314619506
+451,03090101,3192D,SD,Lower Kissimmee,Group 4,Kissimmee River,HICKORY HAMMOCK,STREAM,3F,Biology,Yes,,,Yes,Yes,Yes,1,0,0,1,1,1,Yes,0,1,,Yes,47240121.0603875,34690.0184248932
+452,03090103,3198,SD,Northwest Lake Okeechobee,Group 4,Fisheating Creek,C-41A,STREAM,3F,Nutrients,Yes,Yes,,,,,4,6,0,0,0,0,Yes,2,0,Yes,,234118687.073763,90971.8367712533
+453,03080101,3022,CD,Econlockhatchee River,Group 2,Middle St. Johns,BITHLO BRANCH,STREAM,3F,Biology,Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,6159232.6008875,14620.0408988856
+454,03080101,3023A,CD,Econlockhatchee River,Group 2,Middle St. Johns,LAKE BALDWIN OUTFALL,STREAM,3F,Microbiology,Yes,Yes,,,,,6,2,0,0,0,0,Yes,0,0,,,13724855.71465,27857.5196247678
+455,03080201,2580B,NED,Pellicer Creek,Group 5,Upper East Coast,PELLICER CREEK,ESTUARY,2,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,10111324.443975,16861.0397188428
+456,03080101,2952,CD,Deep Creek MSJR,Group 2,Middle St. Johns,COW CREEK,STREAM,3F,"Biology, Flora, Metals",Yes,Yes,Yes,Yes,Yes,,1,5,5,1,1,0,Yes,0,0,,,44481524.8959,35063.4123241652
+457,03080101,3060,CD,Lake Poinsett,Group 3,Upper St. Johns,FAULK CANAL,STREAM,3F,"Dissolved Oxygen, Nutrients",Yes,Yes,,,Yes,,5,5,0,0,1,0,Yes,0,0,,,20467629.35385,32849.490013087
+458,03080201,2666,CD,Halifax River,Group 5,Upper East Coast,B-19 CANAL,STREAM,3F,Flora,Yes,Yes,,,Yes,,1,1,0,0,1,0,Yes,0,0,,,20243792.89455,29357.0744048312
+459,03100201,2049,SD,Lemon Bay,Group 2,Charlotte Harbor,GOTTFRIED CREEK,ESTUARY,3M,Pesticides,Yes,Yes,Yes,,,Yes,10,1,5,0,0,3,Yes,0,0,,,29165321.9927875,32375.8412541337
+460,03080101,3100,CD,Jane Green Creek,Group 3,Upper St. Johns,LITTLE CREEK,STREAM,3F,Nutrients,Yes,Yes,,,,,1,5,0,0,0,0,Yes,0,0,,,113402243.5126,61116.6014041647
+461,03090101,1938G,SD,Lake Placid,Group 4,Kissimmee River,LAKE FRANCIS,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,2,0,Yes,,2150408.4802125,5463.94656207331
+462,03090101,3186G,CD,Lower Kissimmee,Group 4,Kissimmee River,BLANKET BAY SLOUGH,STREAM,3F,"Dissolved Oxygen, Nutrients",Yes,Yes,,,,,1,10,0,0,0,0,Yes,0,0,,,62065450.20655,35761.4391324983
+463,03090101,3188B,SED,Lower Kissimmee,Group 4,Kissimmee River,GORE BRANCH,STREAM,3F,"Biology, Dissolved Oxygen, Flora, Nutrients",Yes,Yes,,Yes,Yes,,1,5,0,1,1,0,Yes,0,0,,,339511446.131675,102498.842116769
+464,03090101,1856A,SD,Lower Kissimmee,Group 4,Kissimmee River,ISTOKPOGA CANAL,STREAM,3F,Microbiology,Yes,,Yes,,,,5,0,10,0,0,0,Yes,5,0,Yes,,45063838.4005,32869.4435364326
+465,03090101,1860C,SD,Lake Istokpoga,Group 4,Kissimmee River,JACKSON CREEK,STREAM,3F,"Dissolved Oxygen, Nutrients",Yes,Yes,,,,,4,5,0,0,0,0,Yes,0,0,,,49975635.315325,69668.6744479541
+466,03090206,3219,SED,Okeechobee Waterway (C-44),Group 2,St. Lucie - Loxahatchee,S-153,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,10,0,0,0,0,Yes,0,0,,,54433799.4667,52613.7877249237
+467,03090102,3213B,SED,NHLMS Complex,Group 1,Lake Okeechobee,HENRY CREEK,STREAM,3F,"Biology, Flora, Nutrients",Yes,Yes,,Yes,Yes,,10,11,0,1,1,0,Yes,0,0,,,58987862.193925,34115.6500662613
+468,03090101,3188A,SED,Lower Kissimmee,Group 4,Kissimmee River,CHANDLER SLOUGH,STREAM,3F,"Biology, Dissolved Oxygen",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,43219513.5887,36051.0534451044
+469,03090202,3238,SED,Everglades Agricultural Area,Group 5,Everglades,WEST PALM BEACH CANAL,STREAM,3F,"Microbiology, Pesticides",Yes,,,,,Yes,5,0,0,0,0,7,Yes,0,0,,,297824398.67445,84287.3508513216
+470,03090206,3215,SED,South St. Lucie - Indian River Lagoon,Group 2,St. Lucie - Loxahatchee,DANFORTH CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,20011310.757525,26884.8402804838
+471,03080101,3008A,CD,Puzzle Lake,Group 3,Upper St. Johns,FOX LAKE,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,654605.381275,7417.99469713384
+472,03080101,2997,CD,Lake Jesup,Group 2,Middle St. Johns,HOWELL CREEK BELOW LAKE HOWELL,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,24170586.223875,43729.0184179685
+473,03080101,2998A,CD,Wekiva River,Group 2,Middle St. Johns,LAKE FLORIDA,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,100242.2810875,1516.26345618633
+474,03080101,3006,CD,Puzzle Lake,Group 3,Upper St. Johns,ROBERTS BRANCH,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,17012363.40385,28903.8393569486
+475,03080101,2893X1,CD,St. Johns Marsh,Group 3,Upper St. Johns,LITTLE SAWGRASS LAKE DRAIN,LAKE,1,"Biology, Dissolved Oxygen, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,8375861.9104125,20947.372022657
+476,03080101,3152B,SED,Blue Cypress Creek,Group 3,Upper St. Johns,PADGETT BRANCH,STREAM,3F,"Dissolved Oxygen, Nutrients",Yes,Yes,,,,,2,5,0,0,0,0,Yes,0,0,,,51665195.603825,43857.4550306526
+477,03090101,3174,CD,Upper Kissimmee,Group 4,Kissimmee River,LAKE CENTER,LAKE,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,1663752.6785375,5357.69989775544
+478,03090101,3173A1,CD,Upper Kissimmee,Group 4,Kissimmee River,PARTIN CANAL,STREAM,3F,"Biology, Flora",,,,Yes,Yes,,0,0,0,1,1,0,Yes,0,0,,,17279348.2136,30273.0716226244
+479,03080202,3044A,CD,Banana River,Group 5,Indian River Lagoon,NEWFOUND HARBOR,ESTUARY,2,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,0,0,,,23017476.013675,26303.5756858708
+480,03110201,3388,NED,Upper Suwannee,Group 1,Suwannee,DEEP CREEK,STREAM,3F,"Biology, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,136105123.02495,98287.8728434356
+481,03120003,630,NWD,North Ochlockonee River,Group 1,Ochlockonee - St. Marks,DOUBLE BRANCH,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,5,1,1,0,Yes,5,0,Yes,,4796740.6033125,15358.8544654762
+482,03140105,846A,NWD,Pensacola Bay,Group 4,Pensacola,JONES CREEK,STREAM,3F,"Metals, Microbiology, Pesticides",Yes,,Yes,,,Yes,5,0,2,0,0,2,Yes,2,2,Yes,Yes,10863033.2251375,19593.0353832317
+483,03080201,2477,NED,Tolomato River,Group 5,Upper East Coast,XIMANIES CREEK,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,1668742.6734,5137.53403452827
+484,03080203,3158,SED,South Central Indian River Lagoon,Group 5,Indian River Lagoon,SOUTH CANAL,STREAM,3F,"Flora, Microbiology",Yes,Yes,,,Yes,,5,2,0,0,1,0,Yes,0,0,,,67509015.4251625,38818.7005666855
+485,03080201,2550B,NED,Pellicer Creek,Group 5,Upper East Coast,UNNAMED DRAIN (FRESHWATER SEGMENT),STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,15165925.4966875,20477.3703749103
+486,03080201,2609A,NED,Pellicer Creek,Group 5,Upper East Coast,ST JOE CANAL,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,78570760.31645,43848.4798063463
+487,03080201,2672A,CD,Halifax River,Group 5,Upper East Coast,ROSE BAY,ESTUARY,3M,Microbiology,Yes,,,,,,2,0,0,0,0,0,Yes,0,0,,,8529612.9917125,13167.6318461411
+488,03070204,2163,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,MOCCASIN CREEK,STREAM,3F,"Dissolved Oxygen, Nutrients",Yes,Yes,,,,,5,6,0,0,0,0,Yes,0,0,,,105395970.811225,52304.7339183685
+489,03140305,10,NWD,Escambia River,Group 4,Pensacola,BIG ESCAMBIA CREEK,STREAM,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,2,0,Yes,,15044872.8843875,20194.1703832394
+490,03140104,27,NWD,Blackwater River,Group 4,Pensacola,PANTHER CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,51655336.927425,53942.1939847576
+491,03140103,30,NWD,Yellow River,Group 4,Pensacola,YELLOW RIVER,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,5,5,Yes,Yes,120900152.34435,164666.349860673
+492,03080202,2963C1,CD,North Indian River Lagoon,Group 5,Indian River Lagoon,INDIAN RIVER BELOW 520 CAUSEWAY,ESTUARY,2,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,0,0,,,72435412.288275,66340.6086276506
+493,03080203,3147,SED,South Central Indian River Lagoon,Group 5,Indian River Lagoon,NORTH CANAL,STREAM,3F,Pesticides,,,,,,Yes,0,0,0,0,0,10,Yes,0,0,,,52996118.1498375,36633.9049327559
+494,03080202,3085A,CD,North Central Indian River Lagoon,Group 5,Indian River Lagoon,CRANE CREEK,ESTUARY,3M,"Microbiology, Pesticides",Yes,,,,,Yes,4,0,0,0,0,5,Yes,0,0,,,1678989.737025,7578.99321465647
+495,03080202,3107B,CD,North Central Indian River Lagoon,Group 5,Indian River Lagoon,GOAT CREEK (FRESHWATER SEGMENT),STREAM,3F,"Biology, Microbiology",Yes,,,Yes,Yes,,6,0,0,1,1,0,Yes,0,0,,,41109498.18465,28891.4468977745
+496,03080203,3121,CD,South Central Indian River Lagoon,Group 5,Indian River Lagoon,MICCO DITCHES,STREAM,3F,"Flora, Microbiology",Yes,Yes,,,Yes,,5,1,0,0,1,0,Yes,1,0,Yes,,30225996.9176875,29993.1558048476
+497,03080201,2363C,CD,Halifax River,Group 5,Upper East Coast,TOMOKA BASIN,ESTUARY,3M,Nutrients,Yes,Yes,,,,,5,2,0,0,0,0,Yes,0,0,,,11423147.59325,15175.3474444395
+498,03080201,2502C,NED,Matanzas River,Group 5,Upper East Coast,SALT RUN (SHELLFISH PORTION),ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,6561843.4513,12728.9211416551
+499,03080202,2963A1,CD,North Central Indian River Lagoon,Group 5,Indian River Lagoon,INDIAN RIVER ABOVE SEBASTIAN INLET,ESTUARY,2,Microbiology,Yes,,,,,,3,0,0,0,0,0,Yes,0,0,,,74727043.1382875,54643.2243911009
+500,03080202,2963B1,CD,North Central Indian River Lagoon,Group 5,Indian River Lagoon,INDIAN RIVER ABOVE MELBOURNE CAUSEWAY,ESTUARY,2,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,0,0,,,40382944.4238,32347.226615312
+501,03080202,3057B,CD,Banana River,Group 5,Indian River Lagoon,BANANA RIVER ABOVE 520 CAUSEWAY,ESTUARY,2,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,0,0,,,60586132.229825,34929.0157731368
+502,03080203,5003C1,SED,South Central Indian River Lagoon,Group 5,Indian River Lagoon,SOUTH INDIAN RIVER (ABOVE SR 60),ESTUARY,2,"Metals, Microbiology",Yes,,Yes,,,,2,0,10,0,0,0,Yes,0,0,,,57561540.1295375,39781.8731220146
+503,03080103,2240A,NED,North Mainstem,Group 2,Lower St. Johns,GREENFIELD CREEK (MARINE SEGMENT),ESTUARY,3M,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,5388742.93465,11927.9051006754
+504,03090204,3258H2,SD,Estero Bay,Group 1,Everglades West Coast,SPRING CREEK (MARINE SEGMENT),ESTUARY,3M,"Dissolved Oxygen, Microbiology",Yes,Yes,,,,,4,5,0,0,0,0,Yes,5,5,Yes,Yes,16418325.35005,18260.5318701589
+505,03080203,3153A,SED,South Central Indian River Lagoon,Group 5,Indian River Lagoon,MAIN CANAL,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,88465035.051725,59850.9907625695
+506,03090206,3256B,SED,C-16,Group 3,Lake Worth Lagoon - Palm Beach Coast,BOYNTON CANAL,STREAM,3F,Microbiology,Yes,,,,,,3,0,0,0,0,0,Yes,3,0,Yes,,38630621.6413375,39811.6947349315
+507,03080201,2678,CD,Halifax River,Group 5,Upper East Coast,TURNBULL BAY (CREEK),ESTUARY,3M,Nutrients,Yes,Yes,,,,,4,5,0,0,0,0,Yes,0,0,,,35400833.4218375,35383.416941364
+508,03080103,2284A,NED,North Mainstem,Group 2,Lower St. Johns,LITTLE POTTSBURG CREEK (MARINE PORTION),ESTUARY,3M,"Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,5,0,Yes,,3407358.2339125,9123.22531882955
+509,03090204,3258EB,SD,Estero Bay,Group 1,Everglades West Coast,IMPERIAL RIVER (MARINE SEGMENT),ESTUARY,3M,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,14,14,Yes,Yes,15203512.0640712,20864.93078305
+510,03080201,2493B,NED,Matanzas River,Group 5,Upper East Coast,MOULTRIE CREEK LOWER SEGMENT,ESTUARY,3M,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,5176380.45215,17806.6846137222
+511,03080202,3082,CD,North Central Indian River Lagoon,Group 5,Indian River Lagoon,EAU GALLIE RIVER,ESTUARY,3M,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,19651506.1909625,26029.5916725814
+512,03080201,2573,NED,Pellicer Creek,Group 5,Upper East Coast,UNNAMED DRAIN,ESTUARY,2,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,,,5,10,0,0,0,0,Yes,0,0,,,5409516.5376875,13132.48903337
+513,03140203,251,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,CAMP BRANCH,STREAM,3F,"Dissolved Oxygen, Flora, Microbiology, Nutrients",Yes,Yes,,,Yes,,6,5,0,0,1,0,Yes,0,0,,,19950185.378825,26847.7933457368
+514,03140203,55,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,EAST PITTMAN CREEK,STREAM,3F,"Biology, Flora",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,28189214.176875,47883.1316583347
+515,03130011,375G,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,APALACHICOLA RIVER,STREAM,3F,Nutrients,Yes,Yes,Yes,,,,5,6,6,0,0,0,Yes,2,0,Yes,,79669087.8302499,109463.52997371
+516,03080103,2304,NED,North Mainstem,Group 2,Lower St. Johns,MIRAMAR CREEK,STREAM,3F,"Flora, Metals, Nutrients, Pesticides",Yes,Yes,Yes,,Yes,Yes,5,11,10,0,1,4,Yes,0,0,,,1740641.1252875,6298.30409549199
+517,03140203,130,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,MINNOW CREEK,STREAM,3F,"Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,30809310.0687625,40886.1828734382
+518,03120003,410,NWD,North Ochlockonee River,Group 1,Ochlockonee - St. Marks,WILLACOOCHEE CREEK,STREAM,3F,"Metals, Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,,,Yes,5,5,5,0,0,5,Yes,0,0,,,40934011.34925,41680.5981656331
+519,03070204,2106,NED,Lower St. Marys River,Group 4,Nassau - St. Marys,LITTLE ST MARYS RIVER,STREAM,3F,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,10,0,0,0,Yes,2,0,Yes,,81125121.1688,91010.2066065143
+520,03070204,2105A,NED,Middle St. Marys River,Group 4,Nassau - St. Marys,HAMPTON LAKE,LAKE,3F,"Dissolved Oxygen, Nutrients",,Yes,Yes,,,,0,5,5,0,0,0,Yes,0,0,,,178182.2402,2541.11945334391
+521,03120003,440,NWD,North Ochlockonee River,Group 1,Ochlockonee - St. Marks,LEWIS CREEK,STREAM,3F,"Biology, Metals, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,5,1,1,0,Yes,5,0,Yes,,33315467.8475,33168.5045045325
+522,03110201,3375,NED,Upper Suwannee,Group 1,Suwannee,SWIFT CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,81170819.02865,72389.6148330767
+523,03080103,2323,NED,Black Creek,Group 2,Lower St. Johns,YELLOW WATER CREEK,STREAM,3F,"Biology, Metals",,,Yes,Yes,Yes,,0,0,5,1,1,0,Yes,0,0,,,15389564.7901125,32811.4853510687
+524,03120001,647M,NWD,Lake Lafayette,Group 1,Ochlockonee - St. Marks,ALFORD ARM TRIBUTARY,STREAM,3F,Flora,Yes,,,Yes,Yes,Yes,1,0,0,1,1,1,Yes,0,0,,,48698493.39905,37163.1050285129
+525,03070204,2245,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,DEEP CREEK,STREAM,3F,"Metals, Nutrients",Yes,Yes,Yes,,,,6,5,5,0,0,0,Yes,1,0,Yes,,31236550.369,53968.2135115045
+526,03070204,2247,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,ST MARYS RIVER (SOUTH PRONG),STREAM,3F,"Metals, Nutrients",,Yes,Yes,,,,0,5,10,0,0,0,Yes,0,0,,,153462708.1645,115012.624434328
+527,03080103,2249B,NED,Ortega River,Group 2,Lower St. Johns,MCGIRTS CREEK,STREAM,3F,Biology,Yes,,,Yes,Yes,,4,0,0,1,1,0,Yes,0,0,,,20678139.09455,27393.0007288547
+528,03140203,80,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,LITTLE CREEK,STREAM,3F,Dissolved Oxygen,,Yes,,,,,0,5,0,0,0,0,Yes,0,0,,,18905918.3378125,25421.1496312943
+529,03070205,2120B,NED,Nassau River,Group 4,Nassau - St. Marys,MILLS CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,10,1,1,0,Yes,0,0,,,88923840.13565,90031.2246012913
+530,03140203,233A,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,UNNAMED CREEK,STREAM,3F,Nutrients,Yes,Yes,Yes,,,,1,5,5,0,0,0,Yes,0,0,,,16579879.1283,24779.5298658001
+531,03140203,235,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,PINE BARN CREEK,STREAM,3F,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,3647275.84655,8498.74281026508
+532,03070204,2236,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,DAUGHERTY BRANCH,STREAM,3F,"Metals, Nutrients",Yes,Yes,Yes,,,,1,6,6,0,0,0,Yes,2,0,Yes,,11726302.260275,19464.0983752194
+533,03110202,3324,NED,Alapaha River,Group 1,Suwannee,ALAPAHA RIVER,STREAM,3F,Metals,Yes,,Yes,,,,5,0,6,0,0,0,Yes,0,0,,,123344816.862575,93621.6816224822
+534,03130011,376A,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,MOSQUITO CREEK,STREAM,3F,"Flora, Metals, Microbiology, Pesticides",Yes,Yes,Yes,,Yes,Yes,4,2,4,0,1,4,Yes,4,4,Yes,Yes,11563691.188,20872.8773188656
+535,03130011,390,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,UNNAMED TRIBUTARY TO SOUTH MOSQUITO CREEK,STREAM,3F,"Biology, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,5,1,1,0,Yes,0,0,,,3481860.8536,9352.23087945324
+536,03090204,3259A,SD,Southwest Coast,Group 1,Everglades West Coast,COCOHATCHEE RIVER,ESTUARY,2,"Microbiology, Pesticides",Yes,,,,,Yes,5,0,0,0,0,4,Yes,0,4,,Yes,14323344.1054253,30374.3240760079
+537,03140103,145A,NWD,Yellow River,Group 4,Pensacola,DEADFALL CREEK,STREAM,3F,"Biology, Nutrients",Yes,Yes,,Yes,Yes,,5,10,0,1,1,0,Yes,0,0,,,10071346.8465375,16828.1388078465
+538,03140104,179,NWD,Blackwater River,Group 4,Pensacola,BEAR CREEK,STREAM,3F,"Biology, Metals",,Yes,Yes,Yes,Yes,,0,5,4,1,1,0,Yes,0,0,,,4994954.0153375,16021.0228583825
+539,03140102,959F,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,DUNE LAKE DRAIN,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,2,3,Yes,Yes,28811301.7746625,102576.96714321
+540,03140203,262A,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,GILBERTS MILL CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,Yes,Yes,Yes,,5,5,5,1,1,0,Yes,0,0,,,40297424.147975,39311.4675886891
+541,03140103,28,NWD,Yellow River,Group 4,Pensacola,BIG HORSE CREEK,STREAM,3F,"Biology, Flora, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,35046579.2800625,40737.256026497
+542,03140103,35,NWD,Yellow River,Group 4,Pensacola,POND CREEK,STREAM,3F,Microbiology,Yes,,Yes,,,,5,0,5,0,0,0,Yes,0,0,,,57032330.8101125,61403.1963415997
+543,03140103,117,NWD,Yellow River,Group 4,Pensacola,TURKEY CREEK,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,54108999.5862375,45792.0363577964
+544,03140203,142,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,SIKES CREEK,STREAM,3F,"Biology, Dissolved Oxygen, Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,7,5,5,1,1,0,Yes,1,0,Yes,,43829345.7016375,44381.104550184
+545,03140203,239,NWD,Choctawhatchee River,Group 3,Choctawhatchee - St. Andrew,GUM CREEK,STREAM,3F,"Dissolved Oxygen, Metals, Microbiology",Yes,Yes,Yes,,,,8,5,5,0,0,0,Yes,0,0,,,91056394.8354,93450.7593051913
+546,03140103,161,NWD,Yellow River,Group 4,Pensacola,POVERTY CREEK,STREAM,3F,"Biology, Dissolved Oxygen",Yes,Yes,Yes,,,,5,5,5,1,1,0,Yes,0,0,,,31084800.421725,41813.8081541889
+547,03140305,87,NWD,Escambia River,Group 4,Pensacola,LITTLE PINE BARREN CREEK,STREAM,3F,"Metals, Pesticides",,,Yes,,,Yes,0,0,5,0,0,2,Yes,0,0,,,39532235.896875,41974.0320157291
+548,03090204,3278U,SD,Southwest Coast,Group 1,Everglades West Coast,ROOKERY BAY (COASTAL SEGMENT),ESTUARY,2,Microbiology,Yes,,,,,,3,0,0,0,0,0,Yes,0,0,,,156018417.720168,70356.2148585171
+549,03140105,493B,NWD,Pensacola Bay,Group 4,Pensacola,JUDGES BAYOU (TIDAL SEGMENT),ESTUARY,3M,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,810720.117175,3994.92318664051
+550,03140105,537,NWD,Pensacola Bay,Group 4,Pensacola,JAKES BAYOU (MARINE PORTION),ESTUARY,3M,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,0,0,,,3907857.2991625,9139.90151320276
+551,03140101,1111A,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,SANDY CREEK (SHELLFISH PORTION),ESTUARY,2,"Dissolved Oxygen, Microbiology",Yes,Yes,,,,,4,5,0,0,0,0,Yes,0,0,,,26756400.4244125,27518.8791806762
+552,03140102,906,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,JOES BAYOU,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,Yes,,,5,36,0,1,0,0,Yes,6,0,Yes,,4687940.3847875,11937.565150437
+553,03140105,420,NWD,Pensacola Bay,Group 4,Pensacola,PACE MILL CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,14871377.6325875,25734.5738513946
+554,03100201,1971A,SD,Sarasota Bay,Group 3,Sarasota Bay - Peace - Myakka,CLARK LAKE DRAINAGE,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,1,1,Yes,Yes,7344506.96395,20484.6680222778
+555,03140101,1209,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,EAGLE NEST BAYOU,ESTUARY,2,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,8920442.779875,15061.6678750294
+556,03140102,751,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,EAGLE CREEK,ESTUARY,2,Dissolved Oxygen,,Yes,,,,,0,1,0,0,0,0,Yes,0,0,,,10040548.0528625,13295.0174740236
+557,03140105,548AC,NWD,Pensacola Bay,Group 4,Pensacola,ESCAMBIA BAY NORTH (SHELLFISH),ESTUARY,2,Microbiology,Yes,,,,,,10,0,0,0,0,0,Yes,0,0,,,23014297.6911,23791.8442397754
+558,03140101,1141B,NWD,St. Andrews Bay,Group 3,Choctawhatchee - St. Andrew,PARKER BAYOU,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,5,0,0,0,0,Yes,0,0,,,313357.90885,2646.48464394417
+559,03090206,3232A,SED,Loxahatchee,Group 2,St. Lucie - Loxahatchee,TIDAL CREEK TO LOXAHATCHEE RIVER,ESTUARY,3M,Microbiology,Yes,,,,,,1,0,0,0,0,0,Yes,3,2,Yes,Yes,28256.6663875,1227.98904468956
+560,03130014,1274,NWD,Apalachicola Bay,Group 2,Apalachicola - Chipola,APALACHICOLA BAY,ESTUARY,2,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,216791858.146124,89562.6256122289
+561,03100206,1691,SWD,Coastal Hillsborough Bay Tributary,Group 1,Tampa Bay,SIMS BRANCH,ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,,,,,4,5,0,0,0,0,Yes,0,0,,,3277025.466275,9844.78059072673
+562,03100201,1947,SD,Sarasota Bay,Group 3,Sarasota Bay - Peace - Myakka,PHILIPPI CREEK (TIDAL),ESTUARY,3M,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,5,5,Yes,Yes,16884925.667225,29097.4057307368
+563,03100207,1341I,SWD,Crystal River / Kings Bay,Group 5,Springs Coast,CRYSTAL RIVER,ESTUARY,2,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,20315602.9083125,22772.3528459139
+564,03140102,843A,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,GAP CREEK,STREAM,3F,"Biology, Flora, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,0,,,5949038.2014125,11990.0312037569
+565,03100201,2030,SD,Lemon Bay,Group 2,Charlotte Harbor,ALLIGATOR CREEK (TIDAL SEGMENT),ESTUARY,3M,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,3,3,Yes,Yes,11044899.6381,15454.3495983298
+566,03100201,1983A,SD,Lemon Bay,Group 2,Charlotte Harbor,UPPER LEMON BAY,ESTUARY,2,Microbiology,Yes,,,,,,6,0,0,0,0,0,Yes,6,6,Yes,Yes,9961378.9039875,30411.5124329701
+567,03090204,8066,SD,Everglades National Park,Group 5,Everglades,GULF OF MEXICO (EVERGLADES NATIONAL PARK),COASTAL,2,Nutrients,Yes,Yes,,,,,5,6,0,0,0,0,Yes,0,0,,,189668635.954337,111231.088007171
+568,03090204,3289A,SD,Everglades National Park,Group 5,Everglades,OYSTER BAY,ESTUARY,2,Nutrients,Yes,Yes,,,,,4,10,0,0,0,0,Yes,0,0,,,93516536.952475,71472.2515523081
+569,03090206,3210,SED,South St. Lucie - Indian River Lagoon,Group 2,St. Lucie - Loxahatchee,ST LUCIE RIVER (SOUTH FORK),ESTUARY,3M,"Metals, Microbiology",Yes,,Yes,,,,5,0,10,0,0,0,Yes,0,0,,,29546061.209025,31003.9500579295
+570,03090206,3194W,SED,Coastal,Group 2,St. Lucie - Loxahatchee,WARNER CREEK,STREAM,3F,Microbiology,,Yes,,,Yes,,0,1,0,0,1,0,Yes,1,1,Yes,Yes,9414550.8383625,14564.9152200485
+571,03090206,3208C,SED,Coastal,Group 2,St. Lucie - Loxahatchee,MANATEE POCKET,ESTUARY,3M,Dissolved Oxygen,Yes,Yes,,,,,10,5,0,0,0,0,Yes,2,0,Yes,,14518410.3669875,18821.9281477213
+572,03130011,393,NWD,Apalachicola River,Group 2,Apalachicola - Chipola,SOUTH MOSQUITO CREEK,STREAM,3F,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,6,5,5,0,0,0,Yes,2,0,Yes,,27576149.560825,53415.9163869555
+573,03120003,540A,NWD,North Ochlockonee River,Group 1,Ochlockonee - St. Marks,LAKE TALLAVANA,LAKE,3F,Biology,,Yes,,Yes,,Yes,0,1,0,1,0,1,Yes,0,0,,,593805.2040375,7638.45621849659
+574,03070204,2178,NED,Middle St. Marys River,Group 4,Nassau - St. Marys,UNNAMED STREAM,STREAM,3F,"Dissolved Oxygen, Nutrients",Yes,Yes,Yes,,,,6,5,5,0,0,0,Yes,0,0,,,7368033.69025,15853.1653092169
+575,03070204,2225,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,UNNAMED DRAIN,STREAM,3F,"Dissolved Oxygen, Nutrients",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,35568863.85055,28964.526982902
+576,03070204,2264,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,CALKINS CREEK,STREAM,3F,"Microbiology, Nutrients",Yes,Yes,,,,,5,6,0,0,0,0,Yes,2,0,Yes,,38082999.8859625,46720.3747974103
+577,03070204,2288,NED,Upper St. Marys River,Group 4,Nassau - St. Marys,UNNAMED BRANCH,STREAM,3F,Microbiology,Yes,,Yes,,,,5,0,5,0,0,0,Yes,0,0,,,11244439.5914625,19396.0588485138
+578,03140103,145B,NWD,Yellow River,Group 4,Pensacola,LAKE KARICK DRAIN,STREAM,3F,Biology,Yes,,,Yes,Yes,,1,0,0,1,1,0,Yes,0,0,,,15652580.3551875,22968.6502235207
+579,03140103,160,NWD,Yellow River,Group 4,Pensacola,SHOAL RIVER,STREAM,3F,"Microbiology, Pesticides",Yes,,,,,Yes,5,0,0,0,0,5,Yes,0,0,,,113632069.630125,115268.370899423
+580,03090206,3208B,SED,Coastal,Group 2,St. Lucie - Loxahatchee,WILLOUGHBY CREEK,ESTUARY,3M,"Dissolved Oxygen, Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,,,Yes,5,5,5,0,0,5,Yes,5,5,Yes,Yes,12932842.463,16259.0776359589
+581,03100101,2056C2,SD,Lower Peace River,Group 3,Sarasota Bay - Peace - Myakka,PEACE RIVER ESTUARY(UPPER SEGMENT SOUTH),ESTUARY,3M,Nutrients,Yes,Yes,,,,,10,5,0,0,0,0,Yes,0,0,,,12859962.6269625,19185.0083410549
+582,03070205,2161B,NED,Nassau River,Group 4,Nassau - St. Marys,THOMAS CREEK (UPPER MARINE SEGMENT),ESTUARY,3M,"Metals, Microbiology",Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,7343817.4992375,12876.0512465625
+583,03140102,874,NWD,Choctawhatchee Bay,Group 3,Choctawhatchee - St. Andrew,UNNAMED STREAM,STREAM,3F,Microbiology,Yes,,,,,,5,0,0,0,0,0,Yes,0,0,,,1217808.1001375,4955.95783625787
+584,03090206,3210E,SED,South St. Lucie - Indian River Lagoon,Group 2,St. Lucie - Loxahatchee,ROEBUCK CREEK,ESTUARY,3M,Microbiology,Yes,Yes,Yes,,,,5,2,2,0,0,0,Yes,1,2,Yes,Yes,6345220.897275,13199.7590256447
+585,03080103,2326B,NED,North Mainstem,Group 2,Lower St. Johns,GOODBYS CREEK (MARINE SEGMENT),ESTUARY,3M,"Metals, Microbiology, Nutrients, Pesticides",,Yes,Yes,,,Yes,0,5,5,0,0,5,Yes,3,3,Yes,Yes,5877978.770925,10577.4959661167
+586,03090206,3210C,SED,South St. Lucie - Indian River Lagoon,Group 2,St. Lucie - Loxahatchee,SOUTH FORK ST LUCIE RIVER (TIDAL SEGMENT),ESTUARY,3M,"Metals, Microbiology, Nutrients",Yes,Yes,Yes,,,,10,6,6,0,0,0,Yes,6,6,Yes,Yes,20119610.9671625,24512.0564295471
+587,03100101,2060A1,SD,Lower Peace River,Group 3,Sarasota Bay - Peace - Myakka,MYAKKA CUTOFF (WESTERN PORTION),ESTUARY,2,Microbiology,Yes,,,,,,4,0,0,0,0,0,Yes,0,0,,,4640445.26345,10071.6631048876
+588,03140104,24AC,NWD,Blackwater River,Group 4,Pensacola,LOCKLIN LAKE DRAIN,STREAM,3F,"Biology, Nutrients",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,2,0,Yes,,3769310.0046375,11057.7690642571
+589,03090103,3204,SD,Northwest Lake Okeechobee,Group 4,Fisheating Creek,HARNEY POND CANAL,STREAM,3F,Nutrients,,Yes,,,,,0,7,0,0,0,0,Yes,2,0,Yes,,367966882.277675,113722.364149552
+590,03100207,1341D,SWD,Crystal River / Kings Bay,Group 5,Springs Coast,HOUSE SPRING,SPRING,3F,Nutrients,,Yes,,,,,0,8,0,0,0,0,Yes,0,0,,,22606.593755385,533.187087098938
+591,03090103,3222,SD,Northwest Lake Okeechobee,Group 4,Fisheating Creek,L-49,STREAM,3F,Nutrients,,Yes,,,,,0,5,0,0,0,0,Yes,2,0,Yes,,46070979.2121875,29708.8804763672
+592,03100207,1701B,SWD,Anclote River / Coastal Pinellas County,Group 5,Springs Coast,BEAR CREEK (TIDAL PORTION),ESTUARY,3M,"Dissolved Oxygen, Microbiology, Nutrients",Yes,Yes,,,,,4,5,0,0,0,0,Yes,4,4,Yes,Yes,1455971.5516875,6339.35211457029
+593,03140104,24AF,NWD,Blackwater River,Group 4,Pensacola,LOCKLIN LAKE,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,41726.11735,2215.08642230639
+594,03120001,1176C,NWD,Coastal Watershed and Apalachee Bay,Group 1,Ochlockonee - St. Marks,OYSTER BAY,ESTUARY,2,"Microbiology, Nutrients",Yes,Yes,,,,,5,10,0,0,0,0,Yes,0,0,,,13322889.6407125,40026.122659311
+595,03090102,3205B,SED,TOL Complex,Group 1,Lake Okeechobee,TAYLOR CREEK (LOWER SEGMENT),STREAM,3F,"Flora, Microbiology, Pesticides",Yes,Yes,,,Yes,Yes,10,5,0,0,1,5,Yes,5,5,Yes,Yes,27697064.3027,27167.6587351512
+596,03080103,2207B,NED,Trout River,Group 2,Lower St. Johns,BLOCKHOUSE CREEK (MARINE SEGMENT),ESTUARY,3M,"Dissolved Oxygen, Metals, Microbiology, Nutrients, Pesticides",Yes,Yes,Yes,,,Yes,5,5,5,0,0,5,Yes,5,1,Yes,Yes,1037372.2198625,4684.32980794777
+597,03080103,2287A,NED,North Mainstem,Group 2,Lower St. Johns,MILLER CREEK (FRESHWATER SEGMENT),STREAM,3F,"Biology, Microbiology",Yes,,,Yes,Yes,,5,0,0,1,1,0,Yes,0,1,,Yes,1090080.7472875,5764.52170051109
+598,03080103,2297B,NED,North Mainstem,Group 2,Lower St. Johns,CRAIG CREEK (MARINE SEGMENT),ESTUARY,3M,Nutrients,Yes,Yes,Yes,,,,5,5,5,0,0,0,Yes,0,0,,,524768.016075,3212.61457334347
+599,03080103,2240B,NED,North Mainstem,Group 2,Lower St. Johns,GREENFIELD CREEK (FRESHWATER SEGMENT),STREAM,3F,Nutrients,Yes,Yes,Yes,,,,1,5,5,0,0,0,Yes,0,0,,,2237235.82555,6907.88857261025
+600,03070204,2124B,NED,Lower St. Marys River,Group 4,Nassau - St. Marys,ESCAMBIA SLOUGH,ESTUARY,3M,"Microbiology, Nutrients",Yes,Yes,Yes,,,,10,5,5,0,0,0,Yes,5,5,Yes,Yes,3222040.0734375,8381.04556646259
+601,03080103,2630E,CD,Crescent Lake,Group 2,Lower St. Johns,LINDLEY LAKE,LAKE,3F,Biology,,Yes,,Yes,,,0,1,0,1,0,0,Yes,0,0,,,124516.6217625,1969.49354266593
+602,03100208,1329K,CD,Lower Withlacoochee,Group 4,Withlacoochee,LAKE OTTING,LAKE,3F,"Biology, Nutrients",,Yes,,Yes,,,0,5,0,1,0,0,Yes,0,0,,,21548.028775,673.19635862258
+603,03090101,3186H,CD,Lower Kissimmee,Group 4,Kissimmee River,KISSIMMEE RIVER BELOW LAKE KISSIMMEE,STREAM,3F,"Biology, Nutrients",Yes,Yes,,Yes,Yes,,5,5,0,1,1,0,Yes,0,0,,,52968741.6947125,44524.4118503529
